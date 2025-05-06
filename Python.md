@@ -155,3 +155,4 @@ The def statement, which defines a function or method
 The with statement, which encloses a code block within a context manager, allowing resource-acquisition-is-initialization (RAII)-like behavior and replacing a common try/finally idiom[102] Examples of a context include acquiring a lock before some code is run, and then releasing the lock; or opening and then closing a file
 The break statement, which exits a loop
 The continue statement, which skips the rest of the current iteration and continues with the next
+The del statement, which removes a variable—deleting the reference from the name to the value, and producing an error if the variable is referred to before it is redefined [a]
