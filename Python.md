@@ -149,3 +149,4 @@ The if statement, which conditionally executes a block of code, along with else 
 The for statement, which iterates over an iterable object, capturing each element to a local variable for use by the attached block
 The while statement, which executes a block of code as long as its condition is true
 The try statement, which allows exceptions raised in its attached code block to be caught and handled by except clauses (or new syntax except* in Python 3.11 for exception groups[101]); the try statement also ensures that clean-up code in a finally block is always run regardless of how the block exits
+The raise statement, used to raise a specified exception or re-raise a caught exception
