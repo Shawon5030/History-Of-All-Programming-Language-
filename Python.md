@@ -157,3 +157,4 @@ The break statement, which exits a loop
 The continue statement, which skips the rest of the current iteration and continues with the next
 The del statement, which removes a variable—deleting the reference from the name to the value, and producing an error if the variable is referred to before it is redefined [a]
 The pass statement, serving as a NOP (i.e., no operation), which is syntactically needed to create an empty code block
+The assert statement, used in debugging to check for conditions that should apply
