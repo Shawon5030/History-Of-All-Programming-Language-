@@ -215,3 +215,4 @@ False
 bytearray	mutable	Sequence of bytes	bytearray(b'Some ASCII')
 bytearray(b"Some ASCII")
 bytearray([119, 105, 107, 105])
+bytes	immutable	Sequence of bytes	b'Some ASCII'
