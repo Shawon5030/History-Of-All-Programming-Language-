@@ -358,3 +358,4 @@ Stackless Python is a significant fork of CPython that implements microthreads. 
 Just-in-time Python compilers have been developed, but are now unsupported:
 
 Google began a project named Unladen Swallow in 2009: this project aimed to speed up the Python interpreter five-fold by using LLVM, and improve multithreading capability for scaling to thousands of cores,[164] while typical implementations are limited by the global interpreter lock.
+Psyco is a discontinued just-in-time specializing compiler, which integrates with CPython and transforms bytecode to machine code at runtime. The emitted code is specialized for certain data types and is faster than standard Python code. Psyco does not support Python 2.7 or later.
