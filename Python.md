@@ -331,3 +331,4 @@ Other shells, including IDLE and IPython, add additional capabilities such as im
 Standard desktop IDEs include PyCharm, IntelliJ Idea, Visual Studio Code; there are also web browser-based IDEs, such as the following environments:
 
 SageMath, for developing science- and math-related programs;
+Jupyter Notebooks, an open-source interactive computing platform;
