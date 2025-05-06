@@ -225,3 +225,4 @@ dict	mutable	Associative array (or dictionary) of key and value pairs; can conta
 types.EllipsisType	immutable	An ellipsis placeholder to be used as an index in NumPy arrays	...
 Ellipsis
 float	immutable	Double-precision floating-point number. The precision is machine-dependent, but in practice it is generally implemented as a 64-bit IEEE 754 number with 53 bits of precision.[122]	
+1.33333
