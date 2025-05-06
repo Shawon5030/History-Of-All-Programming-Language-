@@ -337,3 +337,4 @@ Canopy IDE, a commercial IDE that emphasizes scientific computing.[139][140]
 Implementations
 See also: List of Python software § Python implementations
 Reference implementation
+CPython is the reference implementation of Python. This implementation is written in C, meeting the C11 standard[141] (since version 3.11, older versions use the C89 standard with several select C99 features), but third-party extensions are not limited to older C versions—e.g., they can be implemented using C11 or C++.[142][143] CPython compiles Python programs into an intermediate bytecode,[144] which is then executed by a virtual machine.[145] CPython is distributed with a large standard library written in a combination of C and native Python.
