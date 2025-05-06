@@ -217,3 +217,4 @@ bytearray(b"Some ASCII")
 bytearray([119, 105, 107, 105])
 bytes	immutable	Sequence of bytes	b'Some ASCII'
 b"Some ASCII"
+bytes([119, 105, 107, 105])
