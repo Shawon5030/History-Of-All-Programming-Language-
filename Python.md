@@ -326,3 +326,4 @@ Most Python implementations (including CPython) include a read–eval–print lo
 
 Python is also bundled with an integrated development environment (IDE) called IDLE, which is oriented toward beginners.
 
+Other shells, including IDLE and IPython, add additional capabilities such as improved auto-completion, session-state retention, and syntax highlighting.
