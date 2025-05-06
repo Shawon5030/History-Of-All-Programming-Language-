@@ -130,3 +130,4 @@ Python's developers usually try to avoid premature optimization; they also rejec
 Python's developers aim for the language to be fun to use. This goal is reflected in the name—a tribute to the British comedy group Monty Python[93]—and in playful approaches to some tutorials and reference materials. For instance, some code examples use the terms "spam" and "eggs" (in reference to a Monty Python sketch), rather than the typical terms "foo" and "bar".[94][95] A common neologism in the Python community is pythonic, which has a wide range of meanings related to program style. Pythonic code may use Python idioms well; be natural or show fluency in the language; or conform with Python's minimalist philosophy and emphasis on readability.[96]
 
 Syntax and semantics
+Main article: Python syntax and semantics
