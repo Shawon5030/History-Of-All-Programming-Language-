@@ -146,3 +146,4 @@ Python's statements include the following:
 
 The assignment statement, using a single equals sign =
 The if statement, which conditionally executes a block of code, along with else and elif (a contraction of else if)
+The for statement, which iterates over an iterable object, capturing each element to a local variable for use by the attached block
