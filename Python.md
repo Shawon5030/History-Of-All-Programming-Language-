@@ -120,3 +120,4 @@ Simple is better than complex.
 Complex is better than complicated.
 Readability counts.
 However, Python features regularly violate these principles and have received criticism for adding unnecessary language bloat.[85] Responses to these criticisms note that the Zen of Python is a guideline rather than a rule.[86] The addition of some new features had been controversial: Guido van Rossum resigned as Benevolent Dictator for Life after conflict about adding the assignment expression operator in Python 3.8.[87][88]
+
