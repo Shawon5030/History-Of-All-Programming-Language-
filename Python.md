@@ -263,3 +263,4 @@ Python provides a round function for rounding a float to the nearest integer. Fo
 
 Python allows Boolean expressions that contain multiple equality relations to be consistent with general usage in mathematics. For example, the expression a < b < c tests whether a is less than b and b is less than c.[130] C-derived languages interpret this expression differently: in C, the expression would first evaluate a < b, resulting in 0 or 1, and that result would then be compared with c.[131]
 
+Python uses arbitrary-precision arithmetic for all integer operations. The Decimal type/class in the decimal module provides decimal floating-point numbers to a pre-defined arbitrary precision with several rounding modes.[132] The Fraction class in the fractions module provides arbitrary precision for rational numbers.[133]
