@@ -13,3 +13,4 @@ Text
 
 Small
 
+Standard
