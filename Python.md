@@ -258,3 +258,4 @@ The floor division // operator was introduced. Thus 7//3 == 2, -7//3 == -3, 7.5/
 In Python terms, the / operator represents true division (or simply division), while the // operator represents floor division. Before version 3.0, the / operator represents classic division.[126]
 
 Rounding towards negative infinity, though a different method than in most languages, adds consistency to Python. For instance, this rounding implies that the equation (a + b)//b == a//b + 1 is always true. The rounding also implies that the equation b*(a//b) + a%b == a is valid for both positive and negative values of a. As expected, the result of a%b lies in the half-open interval [0, b), where b is a positive integer; however, maintaining the validity of the equation requires that the result must lie in the interval (b, 0] when b is negative.[127]
+
