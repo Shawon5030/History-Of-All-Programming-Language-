@@ -371,3 +371,4 @@ Numba is a JIT compiler that is used from Python; the compiler translates a subs
 Pythran compiles a subset of Python 3 to C++ (C++11).[170]
 RPython can be compiled to C, and it is used to build the PyPy interpreter for Python.
 The Python → 11l → C++ transpiler[171] compiles a subset of Python 3 to C++ (C++17).
+There are also specialized compilers:
