@@ -365,3 +365,4 @@ There are several compilers/transpilers to high-level object languages; the sour
 
 Brython,[166] Transcrypt,[167][168] and Pyjs compile Python to JavaScript. (The latest release of Pyjs was in 2012.)
 Cython compiles a superset of Python to C. The resulting code can be used with Python via direct C-level API calls into the Python interpreter.
+PyJL compiles/transpiles a subset of Python to "human-readable, maintainable, and high-performance Julia source code".[92] Despite the developers' performance claims, this is not possible for arbitrary Python code; that is, compiling to a faster language or machine code is known to be impossible in the general case. The semantics of Python might potentially be changed, but in many cases speedup is possible with few or no changes in the Python code. The faster Julia source code can then be used from Python or compiled to machine code.
