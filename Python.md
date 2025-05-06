@@ -213,3 +213,4 @@ Type	Mutability	Description	Syntax examples
 bool	immutable	Boolean value	True
 False
 bytearray	mutable	Sequence of bytes	bytearray(b'Some ASCII')
+bytearray(b"Some ASCII")
