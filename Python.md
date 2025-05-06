@@ -325,3 +325,4 @@ See also: Comparison of integrated development environments § Python
 Most Python implementations (including CPython) include a read–eval–print loop (REPL); this permits the environment to function as a command line interpreter, with which users enter statements sequentially and receive results immediately.
 
 Python is also bundled with an integrated development environment (IDE) called IDLE, which is oriented toward beginners.
+
