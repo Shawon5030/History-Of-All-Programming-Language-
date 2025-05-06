@@ -131,3 +131,4 @@ Python's developers aim for the language to be fun to use. This goal is reflecte
 
 Syntax and semantics
 Main article: Python syntax and semantics
+Block of Python code showing sample source code
