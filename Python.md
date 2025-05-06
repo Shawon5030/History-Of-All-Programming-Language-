@@ -53,3 +53,4 @@ Dialects
 Cython, RPython, Starlark[11]
 Influenced by
 ABC,[12] Ada,[13] ALGOL 68,[14]
+APL,[15] C,[16] C++,[17] CLU,[18] Dylan,[19]
