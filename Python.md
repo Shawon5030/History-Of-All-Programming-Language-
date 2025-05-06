@@ -223,3 +223,4 @@ complex	immutable	Complex number with real and imaginary parts	3+2.7j
 dict	mutable	Associative array (or dictionary) of key and value pairs; can contain mixed types (keys and values); keys must be a hashable type	{'key1': 1.0, 3: False}
 {}
 types.EllipsisType	immutable	An ellipsis placeholder to be used as an index in NumPy arrays	...
+Ellipsis
