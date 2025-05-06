@@ -173,3 +173,4 @@ The +, -, and * operators for mathematical addition, subtraction, and multiplica
 Python uses the + operator for string concatenation. The language uses the * operator for duplicating a string a specified number of times.
 The @ infix operator is intended to be used by libraries such as NumPy for matrix multiplication.[108][109]
 The syntax :=, called the "walrus operator", was introduced in Python 3.8. This operator assigns values to variables as part of a larger expression.[110]
+In Python, == compares two objects by value. Python's is operator may be used to compare object identities (i.e., comparison by reference), and comparisons may be chained—for example, a <= b <= c.
