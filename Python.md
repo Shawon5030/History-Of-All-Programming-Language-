@@ -57,3 +57,4 @@ APL,[15] C,[16] C++,[17] CLU,[18] Dylan,[19]
 Haskell,[20][15] Icon,[21] Lisp,[22]
 Modula-3,[14][17] Perl,[23] Standard ML[15]
 Influenced
+Apache Groovy, Boo, Cobra, CoffeeScript,[24] D, F#, GDScript, Go, JavaScript,[25][26] Julia,[27] Mojo,[28] Nim, Ring,[29] Ruby,[30] Swift,[31] V[32]
