@@ -269,3 +269,4 @@ Due to Python's extensive mathematics library and the third-party library NumPy,
 
 Function syntax
 Functions are created in Python by using the def keyword. A function is defined similarly to how it is called, by first providing the function name and then the required parameters. Here is an example of a function that prints its inputs:
+
