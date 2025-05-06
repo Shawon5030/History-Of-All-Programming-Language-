@@ -59,3 +59,4 @@ Modula-3,[14][17] Perl,[23] Standard ML[15]
 Influenced
 Apache Groovy, Boo, Cobra, CoffeeScript,[24] D, F#, GDScript, Go, JavaScript,[25][26] Julia,[27] Mojo,[28] Nim, Ring,[29] Ruby,[30] Swift,[31] V[32]
  Python Programming at Wikibooks
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[33]
