@@ -346,3 +346,4 @@ All current Python versions (since 3.7) support only operating systems that feat
 Other implementations
 All alternative implementations have at least slightly different semantic. For example, an alternative may include unordered dictionaries, in contrast to other current Python versions. As another example in the larger Python ecosystem, PyPy does not support the full C Python API. Alternative implementations include the following:
 
+PyPy is a fast, compliant interpreter of Python 2.7 and 3.10.[151][152] PyPy's just-in-time compiler often improves speed significantly relative to CPython, but PyPy does not support some libraries written in C.[153] PyPy offers support for the RISC-V instruction-set architecture, for example.
