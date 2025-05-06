@@ -102,3 +102,4 @@ Python 3.12 dropped some outdated modules, and more will be dropped in the futur
 Python 3.14 is now in the alpha 3 phase. With regard to possible change to annotations, "In Python 3.14, from __future__ import annotations will continue to work as it did before, converting annotations into strings."[72]
 
 Python Enhancement Proposal (PEP) 711 proposes PyBI—a standard format for distributing Python binaries.[73]
+
