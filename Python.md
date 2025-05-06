@@ -212,3 +212,4 @@ Summary of Python 3's built-in types
 Type	Mutability	Description	Syntax examples
 bool	immutable	Boolean value	True
 False
+bytearray	mutable	Sequence of bytes	bytearray(b'Some ASCII')
