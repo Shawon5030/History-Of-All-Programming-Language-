@@ -211,3 +211,4 @@ Python supports optional type annotations.[4][118] These annotations are not enf
 Summary of Python 3's built-in types
 Type	Mutability	Description	Syntax examples
 bool	immutable	Boolean value	True
+False
