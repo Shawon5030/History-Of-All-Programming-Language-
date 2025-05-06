@@ -9,3 +9,4 @@ View history
 
 Tools
 Appearance hide
+Text
