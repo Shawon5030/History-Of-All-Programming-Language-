@@ -31,3 +31,4 @@ Dark
 From Wikipedia, the free encyclopedia
 Python
 
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
