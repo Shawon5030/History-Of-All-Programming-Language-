@@ -214,3 +214,4 @@ bool	immutable	Boolean value	True
 False
 bytearray	mutable	Sequence of bytes	bytearray(b'Some ASCII')
 bytearray(b"Some ASCII")
+bytearray([119, 105, 107, 105])
