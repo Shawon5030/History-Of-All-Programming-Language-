@@ -384,3 +384,4 @@ Performance
 A perforance comparison among various Python implementations, using a non-numerical (combinatorial) workload, was presented at EuroSciPy '13.[178] In addition, Python's performance relative to other programming languages is benchmarked by The Computer Language Benchmarks Game.[179]
 
 There are several approaches to optimizing Python performance, given the inherent slowness of an interpreted language. These approaches include the following strategies or tools:
+
