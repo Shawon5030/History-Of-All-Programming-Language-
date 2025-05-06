@@ -219,3 +219,4 @@ bytes	immutable	Sequence of bytes	b'Some ASCII'
 b"Some ASCII"
 bytes([119, 105, 107, 105])
 complex	immutable	Complex number with real and imaginary parts	3+2.7j
+3 + 2.7j
