@@ -41,3 +41,4 @@ Typing discipline	duck, dynamic, strong;[3] optional type annotations (since 3.5
 OS	
 Tier 1: 64-bit Linux, macOS; 64- and 32-bit Windows 10+[5]
 Tier 2: E.g. 32-bit WebAssembly (WASI)
+Tier 3: 64-bit Android,[6] iOS, FreeBSD, and (32-bit) Raspberry Pi OS
