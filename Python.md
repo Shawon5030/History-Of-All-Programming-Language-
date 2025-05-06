@@ -314,3 +314,4 @@ Machine learning
 Mobile apps
 Multimedia
 Computer networking
+Scientific computing
