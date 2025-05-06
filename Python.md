@@ -93,3 +93,4 @@ Python 3.13 introduces the experimental free-threaded build mode, which disables
 
 Some additional standard-library modules will be removed in Python 3.15 or 3.16, as will be many deprecated classes, functions and methods.[66][67]
 
+Python 3.11 adds Sigstore digital verification signatures for all CPython artifacts (in addition to the now deprecated PGP signatures); the use of PGP has been criticized by security practitioners, Python is transitioning to Sigstore exclusively and plans to drop PGP in version 3.14.[68]
