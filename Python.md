@@ -115,3 +115,4 @@ Python's design offers some support for functional programming in the Lisp tradi
 Python's core philosophy is summarized in the Zen of Python (PEP 20), which includes aphorisms such as these:[84]
 
 Beautiful is better than ugly.
+Explicit is better than implicit.
