@@ -133,3 +133,4 @@ Syntax and semantics
 Main article: Python syntax and semantics
 Block of Python code showing sample source code
 An example of Python code and indentation
+C code featuring curly braces and semicolon
