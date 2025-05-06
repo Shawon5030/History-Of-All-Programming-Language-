@@ -175,3 +175,4 @@ The @ infix operator is intended to be used by libraries such as NumPy for matri
 The syntax :=, called the "walrus operator", was introduced in Python 3.8. This operator assigns values to variables as part of a larger expression.[110]
 In Python, == compares two objects by value. Python's is operator may be used to compare object identities (i.e., comparison by reference), and comparisons may be chained—for example, a <= b <= c.
 Python uses and, or, and not as Boolean operators.
+Python has a type of expression called a list comprehension, and a more general expression called a generator expression.[82]
