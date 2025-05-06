@@ -397,3 +397,4 @@ Enhancement of the language corresponds with development of the CPython referenc
 CPython's public releases have three types, distinguished by which part of the version number is incremented:
 
 Backward-incompatible versions, where code is expected to break and must be manually ported. The first part of the version number is incremented. These releases happen infrequently—version 3.0 was released 8 years after 2.0. According to Guido van Rossum, a version 4.0 will probably never exist.[185]
+Major or "feature" releases are largely compatible with the previous version but introduce new features. The second part of the version number is incremented. Starting with Python 3.9, these releases are expected to occur annually.[186][187] Each major version is supported by bug fixes for several years after its release.[188]
