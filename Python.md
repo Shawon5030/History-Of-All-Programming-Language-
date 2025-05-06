@@ -177,3 +177,4 @@ In Python, == compares two objects by value. Python's is operator may be used to
 Python uses and, or, and not as Boolean operators.
 Python has a type of expression called a list comprehension, and a more general expression called a generator expression.[82]
 Anonymous functions are implemented using lambda expressions; however, there may be only one expression in each body.
+Conditional expressions are written as x if c else y.[111] (This is different in operand order from the c ? x : y operator common to many other languages.)
