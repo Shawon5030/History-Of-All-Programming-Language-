@@ -243,3 +243,4 @@ str	immutable	A character string: sequence of Unicode codepoints	'Wikipedia'
 multiple
 lines"""
 Spanning
+multiple
