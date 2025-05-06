@@ -11,3 +11,4 @@ Tools
 Appearance hide
 Text
 
+Small
