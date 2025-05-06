@@ -38,3 +38,4 @@ First appeared	20 February 1991; 34 years ago[2]
 Stable release	
 3.13.2 / 4 February 2025; 3 months ago
 Typing discipline	duck, dynamic, strong;[3] optional type annotations (since 3.5, but those hints are ignored, except with unofficial tools)[4]
+OS	
