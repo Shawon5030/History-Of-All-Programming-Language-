@@ -99,3 +99,4 @@ Python 3.12 removed wstr meaning Python extensions[69] need to be modified,[70] 
 
 Python 3.12 dropped some outdated modules, and more will be dropped in the future, deprecated as of 3.13; already deprecated array 'u' format code will emit DeprecationWarning since 3.13 and will be removed in Python 3.16. The 'w' format code should be used instead. Part of ctypes is also deprecated and http.server.CGIHTTPRequestHandler will emit a DeprecationWarning, and will be removed in 3.15. Using that code already has a high potential for both security and functionality bugs. Parts of the typing module are deprecated, e.g. creating a typing.NamedTuple class using keyword arguments to denote the fields and such (and more) will be disallowed in Python 3.15.
 
+Python 3.14 is now in the alpha 3 phase. With regard to possible change to annotations, "In Python 3.14, from __future__ import annotations will continue to work as it did before, converting annotations into strings."[72]
