@@ -406,3 +406,4 @@ The major academic conference on Python is PyCon. There are also special Python 
 API documentation generators
 Tools that can generate documentation for Python API include pydoc (available as part of the standard library); Sphinx; and Pdoc and its forks, Doxygen and Graphviz.[191]
 
+Naming
