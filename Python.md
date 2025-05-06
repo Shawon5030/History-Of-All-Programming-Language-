@@ -25,3 +25,4 @@ Color (beta)
 
 Automatic
 
+Light
