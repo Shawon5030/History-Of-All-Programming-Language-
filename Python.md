@@ -262,3 +262,4 @@ Rounding towards negative infinity, though a different method than in most langu
 Python provides a round function for rounding a float to the nearest integer. For tie-breaking, Python 3 uses the round to even method: round(1.5) and round(2.5) both produce 2.[128] Python versions before 3 used the round-away-from-zero method: round(0.5) is 1.0, and round(-0.5) is −1.0.[129]
 
 Python allows Boolean expressions that contain multiple equality relations to be consistent with general usage in mathematics. For example, the expression a < b < c tests whether a is less than b and b is less than c.[130] C-derived languages interpret this expression differently: in C, the expression would first evaluate a < b, resulting in 0 or 1, and that result would then be compared with c.[131]
+
