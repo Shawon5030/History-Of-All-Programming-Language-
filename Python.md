@@ -46,3 +46,4 @@ Unofficial (or has been known to work): Other Unix-like/BSD variants) and a few 
 License	Python Software Foundation License
 Filename extensions	.py, .pyw, .pyz,[10]
 .pyi, .pyc, .pyd
+Website	python.org
