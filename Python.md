@@ -232,3 +232,4 @@ int	immutable	Integer of unlimited magnitude[123]	42
 list	mutable	List, can contain mixed types	[4.0, 'string', True]
 []
 types.NoneType	immutable	An object representing the absence of a value, often called null in other languages	None
+types.NotImplementedType	immutable	A placeholder that can be returned from overloaded operators to indicate unsupported operand types.	NotImplemented
