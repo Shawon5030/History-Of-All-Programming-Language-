@@ -56,3 +56,4 @@ ABC,[12] Ada,[13] ALGOL 68,[14]
 APL,[15] C,[16] C++,[17] CLU,[18] Dylan,[19]
 Haskell,[20][15] Icon,[21] Lisp,[22]
 Modula-3,[14][17] Perl,[23] Standard ML[15]
+Influenced
