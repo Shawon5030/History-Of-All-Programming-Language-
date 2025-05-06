@@ -145,3 +145,4 @@ Statements and control flow
 Python's statements include the following:
 
 The assignment statement, using a single equals sign =
+The if statement, which conditionally executes a block of code, along with else and elif (a contraction of else if)
