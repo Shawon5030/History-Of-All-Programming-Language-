@@ -411,3 +411,4 @@ Python's name is inspired by the British comedy group Monty Python, whom Python 
 
 The affix Py is often used when naming Python applications or libraries. Some examples include the following:
 
+Pygame, a binding of Simple DirectMedia Layer to Python (commonly used to create games);
