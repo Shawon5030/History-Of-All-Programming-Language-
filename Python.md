@@ -237,3 +237,4 @@ range	immutable	An immutable sequence of numbers, commonly used for iterating a 
 range(10, −5, −2)
 set	mutable	Unordered set, contains no duplicates; can contain mixed types, if hashable	{4.0, 'string', True}
 set()
+str	immutable	A character string: sequence of Unicode codepoints	'Wikipedia'
