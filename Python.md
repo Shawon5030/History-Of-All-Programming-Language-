@@ -390,3 +390,4 @@ Static compilation: Python code is compiled into machine code sometime before ex
 Concurrency and parallelism: Multiple tasks can be run simultaneously. Python contains modules such as `multiprocessing` to support this form of parallelism. Moreover, this approach helps to overcome limitations of the Global Interpreter Lock (GIL) in CPU tasks.
 Efficient data structures: Performance can also be improved by using data types such as Set for membership tests, or deque from collections for queue operations.
 Language Development
+Python's development is conducted largely through the Python Enhancement Proposal (PEP) process; this process is the primary mechanism for proposing major new features, collecting community input on issues, and documenting Python design decisions.[180] Python coding style is covered in PEP 8.[181] Outstanding PEPs are reviewed and commented on by the Python community and the steering council.[180]
