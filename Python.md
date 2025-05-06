@@ -251,3 +251,4 @@ tuple	immutable	Tuple, can contain mixed types	(4.0, 'string', True)
 Arithmetic operations
 Python includes conventional symbols for arithmetic operators (+, -, *, /), the floor-division operator //, and the modulo operator %. (With the module operator, a remainder can be negative, e.g., 4 % -3 == -2.) Python also offers the ** symbol for exponentiation, e.g. 5**3 == 125 and 9**0.5 == 3.0; it also offers the matrix‑multiplication operator @ .[125] These operators work as in traditional mathematics; with the same precedence rules, the infix operators + and - can also be unary, to represent positive and negative numbers respectively.
 
+Division between integers produces floating-point results. The behavior of division has changed significantly over time:[126]
