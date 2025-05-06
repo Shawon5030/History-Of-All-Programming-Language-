@@ -24,3 +24,4 @@ Wide
 Color (beta)
 
 Automatic
+
