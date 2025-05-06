@@ -342,3 +342,4 @@ CPython is the reference implementation of Python. This implementation is writte
 CPython is available for many platforms, including Windows and most modern Unix-like systems, including macOS (and Apple M1 Macs, since Python 3.9.1, using an experimental installer). Starting with Python 3.9, the Python installer intentionally fails to install on Windows 7 and 8;[146][147] Windows XP was supported until Python 3.5, with unofficial support for VMS.[148] Platform portability was one of Python's earliest priorities.[149] During development of Python 1 and 2, even OS/2 and Solaris were supported;[150] since that time, support has been dropped for many platforms.
 
 All current Python versions (since 3.7) support only operating systems that feature multithreading, by now supporting not nearly as many operating systems (dropping many outdated) than in the past.
+
