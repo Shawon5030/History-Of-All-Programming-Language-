@@ -228,3 +228,4 @@ float	immutable	Double-precision floating-point number. The precision is machine
 1.33333
 
 frozenset	immutable	Unordered set, contains no duplicates; can contain mixed types, if hashable	frozenset([4.0, 'string', True])
+int	immutable	Integer of unlimited magnitude[123]	42
