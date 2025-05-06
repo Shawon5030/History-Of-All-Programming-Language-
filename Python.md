@@ -385,3 +385,4 @@ A perforance comparison among various Python implementations, using a non-numeri
 
 There are several approaches to optimizing Python performance, given the inherent slowness of an interpreted language. These approaches include the following strategies or tools:
 
+Just-in-time compilation: Dynamically compiling Python code just before it is executed. This technique is used in libraries such as Numba and PyPy.
