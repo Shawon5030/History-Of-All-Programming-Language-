@@ -267,3 +267,4 @@ Python uses arbitrary-precision arithmetic for all integer operations. The Decim
 
 Due to Python's extensive mathematics library and the third-party library NumPy, the language is frequently used for scientific scripting in tasks such as numerical data processing and manipulation.[134][135]
 
+Function syntax
