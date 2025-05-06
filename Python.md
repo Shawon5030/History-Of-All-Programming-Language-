@@ -112,3 +112,4 @@ Python uses dynamic typing and a combination of reference counting and a cycle-d
 
 Python's design offers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions.[82] The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.[83]
 
+Python's core philosophy is summarized in the Zen of Python (PEP 20), which includes aphorisms such as these:[84]
