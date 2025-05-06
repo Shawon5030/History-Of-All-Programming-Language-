@@ -370,3 +370,4 @@ Nuitka compiles Python into C.[169] This compiler works with Python 3.4 to 3.12 
 Numba is a JIT compiler that is used from Python; the compiler translates a subset of Python and NumPy code into fast machine code. This tool is enabled by adding a decorator to the relevant Python code.
 Pythran compiles a subset of Python 3 to C++ (C++11).[170]
 RPython can be compiled to C, and it is used to build the PyPy interpreter for Python.
+The Python → 11l → C++ transpiler[171] compiles a subset of Python 3 to C++ (C++17).
