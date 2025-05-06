@@ -395,3 +395,4 @@ Python's development is conducted largely through the Python Enhancement Proposa
 Enhancement of the language corresponds with development of the CPython reference implementation. The mailing list python-dev is the primary forum for the language's development. Specific issues were originally discussed in the Roundup bug tracker hosted by the foundation.[182] In 2022, all issues and discussions were migrated to GitHub.[183] Development originally took place on a self-hosted source-code repository running Mercurial, until Python moved to GitHub in January 2017.[184]
 
 CPython's public releases have three types, distinguished by which part of the version number is incremented:
+
