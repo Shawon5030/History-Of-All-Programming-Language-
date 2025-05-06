@@ -95,3 +95,4 @@ Some additional standard-library modules will be removed in Python 3.15 or 3.16,
 
 Python 3.11 adds Sigstore digital verification signatures for all CPython artifacts (in addition to the now deprecated PGP signatures); the use of PGP has been criticized by security practitioners, Python is transitioning to Sigstore exclusively and plans to drop PGP in version 3.14.[68]
 
+Python 3.12 removed wstr meaning Python extensions[69] need to be modified,[70] and 3.10 added pattern matching to the language.[71]
