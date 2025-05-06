@@ -276,3 +276,4 @@ def printer(input1, input2="already there"):
     
 printer("hello")
     
+# Example output:
