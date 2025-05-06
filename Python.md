@@ -70,3 +70,4 @@ Python consistently ranks as one of the most popular programming languages, and 
 History
 Main article: History of Python
 
+The designer of Python, Guido van Rossum, at PyCon US 2024
