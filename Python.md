@@ -84,3 +84,4 @@ As of 8 April 2025, Python 3.13.3 is the latest stable release (it's highly reco
 Security updates were expedited in 2021 and again twice in 2022. More issues were fixed in 2023 and in September 2024 (for Python versions 3.8.20 through 3.12.6)—all versions (including 2.7)[58] had been insecure because of issues leading to possible remote code execution[59] and web-cache poisoning.[60]
 
 Python 3.10 added the | union type operator[61] and the match and case keywords (for structural pattern matching statements). Python 3.11 expanded exception handling functionality. Python 3.12 added the new keyword type. Notable changes from version 3.10 to 3.11 include increased program execution speed and improved error reporting.[62] Python 3.11 is claimed to be 10–60% faster than Python 3.10, and Python 3.12 increases by an additional 5%. Python 3.12 also includes improved error messages (again improved in 3.14) and many other changes.
+
