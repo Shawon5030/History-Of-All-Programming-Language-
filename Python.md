@@ -299,3 +299,4 @@ for i in range(2, n + 1):
 print(factorial)
 Libraries
 Python's large standard library[136] is commonly cited as one of its greatest strengths. For Internet-facing applications, many standard formats and protocols such as MIME and HTTP are supported. The language includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals,[132] manipulating regular expressions, and unit testing.
+
