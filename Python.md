@@ -355,3 +355,4 @@ The Snek[159][160][161] embedded computing language "is Python-inspired, but it 
 Unsupported implementations
 Stackless Python is a significant fork of CPython that implements microthreads. This implementation uses the call stack differently, thus allowing massively concurrent programs. PyPy also offers a stackless version.[163]
 
+Just-in-time Python compilers have been developed, but are now unsupported:
