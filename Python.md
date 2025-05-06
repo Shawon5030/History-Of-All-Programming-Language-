@@ -199,3 +199,4 @@ Methods of objects are functions attached to the object's class; the syntax for 
 
 Typing
 
+The standard type hierarchy in Python 3
