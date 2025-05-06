@@ -16,3 +16,4 @@ Small
 Standard
 
 Large
+Width
