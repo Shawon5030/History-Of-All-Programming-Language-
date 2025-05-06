@@ -190,3 +190,4 @@ Python has array index and array slicing expressions in lists, which are written
 In Python, a distinction between expressions and statements is rigidly enforced, in contrast to languages such as Common Lisp, Scheme, or Ruby. This distinction leads to duplicating some functionality, for example:
 
 List comprehensions vs. for-loops
+Conditional expressions vs. if blocks
