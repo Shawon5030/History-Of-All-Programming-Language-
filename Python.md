@@ -152,3 +152,4 @@ The try statement, which allows exceptions raised in its attached code block to 
 The raise statement, used to raise a specified exception or re-raise a caught exception
 The class statement, which executes a block of code and attaches its local namespace to a class, for use in object-oriented programming
 The def statement, which defines a function or method
+The with statement, which encloses a code block within a context manager, allowing resource-acquisition-is-initialization (RAII)-like behavior and replacing a common try/finally idiom[102] Examples of a context include acquiring a lock before some code is run, and then releasing the lock; or opening and then closing a file
