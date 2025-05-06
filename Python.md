@@ -169,3 +169,4 @@ Python does not support tail call optimization or first-class continuations; acc
 Expressions
 Python's expressions include the following:
 
+The +, -, and * operators for mathematical addition, subtraction, and multiplication are similar to other languages, but the behavior of division differs. There are two types of division in Python: floor division (or integer division) //, and floating-point division /.[107] Python uses the ** operator for exponentiation.
