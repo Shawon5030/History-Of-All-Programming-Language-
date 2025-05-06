@@ -328,3 +328,4 @@ Python is also bundled with an integrated development environment (IDE) called I
 
 Other shells, including IDLE and IPython, add additional capabilities such as improved auto-completion, session-state retention, and syntax highlighting.
 
+Standard desktop IDEs include PyCharm, IntelliJ Idea, Visual Studio Code; there are also web browser-based IDEs, such as the following environments:
