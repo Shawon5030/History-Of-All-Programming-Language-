@@ -192,3 +192,4 @@ In Python, a distinction between expressions and statements is rigidly enforced,
 List comprehensions vs. for-loops
 Conditional expressions vs. if blocks
 The eval() vs. exec() built-in functions (in Python 2, exec is a statement); the former function is for expressions, while the latter is for statements
+A statement cannot be part of an expression; because of this restriction, expressions such as list and dict comprehensions (and lambda expressions) cannot contain statements. As a particular case, an assignment statement such as a = 1 cannot be part of the conditional expression of a conditional statement.
