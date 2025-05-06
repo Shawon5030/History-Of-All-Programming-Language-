@@ -36,3 +36,4 @@ Designed by	Guido van Rossum
 Developer	Python Software Foundation
 First appeared	20 February 1991; 34 years ago[2]
 Stable release	
+3.13.2 / 4 February 2025; 3 months ago
