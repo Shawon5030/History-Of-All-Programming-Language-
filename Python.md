@@ -231,3 +231,4 @@ frozenset	immutable	Unordered set, contains no duplicates; can contain mixed typ
 int	immutable	Integer of unlimited magnitude[123]	42
 list	mutable	List, can contain mixed types	[4.0, 'string', True]
 []
+types.NoneType	immutable	An object representing the absence of a value, often called null in other languages	None
