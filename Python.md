@@ -7,3 +7,4 @@ Read
 Edit
 View history
 
+Tools
