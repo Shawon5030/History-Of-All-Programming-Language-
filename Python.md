@@ -5,3 +5,4 @@ Article
 Talk
 Read
 Edit
+View history
