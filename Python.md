@@ -209,3 +209,4 @@ Before version 3.0, Python had two kinds of classes, both using the same syntax:
 Python supports optional type annotations.[4][118] These annotations are not enforced by the language, but may be used by external tools such as mypy to catch errors.[119][120] Mypy also supports a Python compiler called mypyc, which leverages type annotations for optimization.[121]
 
 Summary of Python 3's built-in types
+Type	Mutability	Description	Syntax examples
