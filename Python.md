@@ -39,3 +39,4 @@ Stable release
 3.13.2 / 4 February 2025; 3 months ago
 Typing discipline	duck, dynamic, strong;[3] optional type annotations (since 3.5, but those hints are ignored, except with unofficial tools)[4]
 OS	
+Tier 1: 64-bit Linux, macOS; 64- and 32-bit Windows 10+[5]
