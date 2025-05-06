@@ -272,3 +272,4 @@ Functions are created in Python by using the def keyword. A function is defined 
 
 def printer(input1, input2="already there"):
     print(input1)
+    print(input2)
