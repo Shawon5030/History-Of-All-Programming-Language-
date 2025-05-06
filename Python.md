@@ -109,3 +109,4 @@ Design philosophy and features
 Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of their features support functional programming and aspect-oriented programming (including metaprogramming[75] and metaobjects).[76] Many other paradigms are supported via extensions, including design by contract[77][78] and logic programming.[79] Python is often referred to as a 'glue language'[80] because it can seamlessly integrate components written in other languages.
 
 Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[81] It uses dynamic name resolution (late binding), which binds method and variable names during program execution.
+
