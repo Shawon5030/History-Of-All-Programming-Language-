@@ -49,3 +49,4 @@ Filename extensions	.py, .pyw, .pyz,[10]
 Website	python.org
 Major implementations
 CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
