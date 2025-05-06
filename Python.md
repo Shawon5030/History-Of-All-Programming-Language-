@@ -110,3 +110,4 @@ Python is a multi-paradigm programming language. Object-oriented programming and
 
 Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[81] It uses dynamic name resolution (late binding), which binds method and variable names during program execution.
 
+Python's design offers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions.[82] The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.[83]
