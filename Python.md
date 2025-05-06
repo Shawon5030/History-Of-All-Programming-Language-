@@ -176,3 +176,4 @@ The syntax :=, called the "walrus operator", was introduced in Python 3.8. This 
 In Python, == compares two objects by value. Python's is operator may be used to compare object identities (i.e., comparison by reference), and comparisons may be chained—for example, a <= b <= c.
 Python uses and, or, and not as Boolean operators.
 Python has a type of expression called a list comprehension, and a more general expression called a generator expression.[82]
+Anonymous functions are implemented using lambda expressions; however, there may be only one expression in each body.
