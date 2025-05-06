@@ -414,3 +414,4 @@ The affix Py is often used when naming Python applications or libraries. Some ex
 Pygame, a binding of Simple DirectMedia Layer to Python (commonly used to create games);
 PyQt and PyGTK, which bind Qt and GTK to Python respectively;
 PyPy, a Python implementation originally written in Python;
+NumPy, a Python library for numerical processing.
