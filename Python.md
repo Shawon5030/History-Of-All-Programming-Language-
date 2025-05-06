@@ -121,3 +121,4 @@ Complex is better than complicated.
 Readability counts.
 However, Python features regularly violate these principles and have received criticism for adding unnecessary language bloat.[85] Responses to these criticisms note that the Zen of Python is a guideline rather than a rule.[86] The addition of some new features had been controversial: Guido van Rossum resigned as Benevolent Dictator for Life after conflict about adding the assignment expression operator in Python 3.8.[87][88]
 
+Nevertheless, rather than building all functionality into its core, Python was designed to be highly extensible via modules. This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Van Rossum's vision of a small core language with a large standard library and easily extensible interpreter stemmed from his frustrations with ABC, which represented the opposite approach.[42]
