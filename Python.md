@@ -139,3 +139,4 @@ Python is meant to be an easily readable language. Its formatting is visually un
 
 Indentation
 Main article: Python syntax and semantics § Indentation
+Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[98] Thus, the program's visual structure accurately represents its semantic structure.[99] This feature is sometimes termed the off-side rule. Some other languages use indentation this way; but in most, indentation has no semantic meaning. The recommended indent size is four spaces.[100]
