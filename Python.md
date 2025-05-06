@@ -364,3 +364,4 @@ Cross-compilers to other languages
 There are several compilers/transpilers to high-level object languages; the source language is unrestricted Python, a subset of Python, or a language similar to Python:
 
 Brython,[166] Transcrypt,[167][168] and Pyjs compile Python to JavaScript. (The latest release of Pyjs was in 2012.)
+Cython compiles a superset of Python to C. The resulting code can be used with Python via direct C-level API calls into the Python interpreter.
