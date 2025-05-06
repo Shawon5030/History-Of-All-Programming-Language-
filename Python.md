@@ -172,3 +172,4 @@ Python's expressions include the following:
 The +, -, and * operators for mathematical addition, subtraction, and multiplication are similar to other languages, but the behavior of division differs. There are two types of division in Python: floor division (or integer division) //, and floating-point division /.[107] Python uses the ** operator for exponentiation.
 Python uses the + operator for string concatenation. The language uses the * operator for duplicating a string a specified number of times.
 The @ infix operator is intended to be used by libraries such as NumPy for matrix multiplication.[108][109]
+The syntax :=, called the "walrus operator", was introduced in Python 3.8. This operator assigns values to variables as part of a larger expression.[110]
