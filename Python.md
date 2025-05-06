@@ -159,3 +159,4 @@ The del statement, which removes a variable—deleting the reference from the na
 The pass statement, serving as a NOP (i.e., no operation), which is syntactically needed to create an empty code block
 The assert statement, used in debugging to check for conditions that should apply
 The yield statement, which returns a value from a generator function (and also an operator); used to implement coroutines
+The return statement, used to return a value from a function
