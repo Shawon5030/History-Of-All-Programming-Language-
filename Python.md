@@ -289,3 +289,4 @@ Program to calculate the factorial of a positive integer:
 
 n = int(input('Type a number, and its factorial will be printed: '))
 
+if n < 0:
