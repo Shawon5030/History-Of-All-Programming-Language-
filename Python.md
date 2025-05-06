@@ -160,3 +160,4 @@ The pass statement, serving as a NOP (i.e., no operation), which is syntacticall
 The assert statement, used in debugging to check for conditions that should apply
 The yield statement, which returns a value from a generator function (and also an operator); used to implement coroutines
 The return statement, used to return a value from a function
+The import and from statements, used to import modules whose functions or variables can be used in the current program
