@@ -247,3 +247,4 @@ multiple
 lines
 tuple	immutable	Tuple, can contain mixed types	(4.0, 'string', True)
 ('single element',)
+()
