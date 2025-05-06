@@ -138,3 +138,4 @@ Example of C# code with curly braces and semicolons
 Python is meant to be an easily readable language. Its formatting is visually uncluttered and often uses English keywords where other languages use punctuation. Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons after statements are allowed but rarely used. It has fewer syntactic exceptions and special cases than C or Pascal.[97]
 
 Indentation
+Main article: Python syntax and semantics § Indentation
