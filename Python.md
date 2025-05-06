@@ -45,3 +45,4 @@ Tier 3: 64-bit Android,[6] iOS, FreeBSD, and (32-bit) Raspberry Pi OS
 Unofficial (or has been known to work): Other Unix-like/BSD variants) and a few other platforms[7][8][9]
 License	Python Software Foundation License
 Filename extensions	.py, .pyw, .pyz,[10]
+.pyi, .pyc, .pyd
