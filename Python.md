@@ -259,3 +259,4 @@ In Python terms, the / operator represents true division (or simply division), w
 
 Rounding towards negative infinity, though a different method than in most languages, adds consistency to Python. For instance, this rounding implies that the equation (a + b)//b == a//b + 1 is always true. The rounding also implies that the equation b*(a//b) + a%b == a is valid for both positive and negative values of a. As expected, the result of a%b lies in the half-open interval [0, b), where b is a positive integer; however, maintaining the validity of the equation requires that the result must lie in the interval (b, 0] when b is negative.[127]
 
+Python provides a round function for rounding a float to the nearest integer. For tie-breaking, Python 3 uses the round to even method: round(1.5) and round(2.5) both produce 2.[128] Python versions before 3 used the round-away-from-zero method: round(0.5) is 1.0, and round(-0.5) is −1.0.[129]
