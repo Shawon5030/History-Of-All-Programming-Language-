@@ -47,3 +47,4 @@ License	Python Software Foundation License
 Filename extensions	.py, .pyw, .pyz,[10]
 .pyi, .pyc, .pyd
 Website	python.org
+Major implementations
