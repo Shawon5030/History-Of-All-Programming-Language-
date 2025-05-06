@@ -22,3 +22,4 @@ Standard
 
 Wide
 Color (beta)
+
