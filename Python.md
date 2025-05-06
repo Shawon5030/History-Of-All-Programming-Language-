@@ -369,3 +369,4 @@ PyJL compiles/transpiles a subset of Python to "human-readable, maintainable, an
 Nuitka compiles Python into C.[169] This compiler works with Python 3.4 to 3.12 (and 2.6 and 2.7) for Python's main supported platforms (and Windows 7 or even Windows XP) and for Android. The compiler developers claim full support for Python 3.10, partial support for Python 3.11 and 3.12, and experimental support for Python 3.13. Nuitka supports macOS including Apple Silicon-based versions. The compiler is free of cost, though it has commercial add-ons (e.g., for hiding source code).
 Numba is a JIT compiler that is used from Python; the compiler translates a subset of Python and NumPy code into fast machine code. This tool is enabled by adding a decorator to the relevant Python code.
 Pythran compiles a subset of Python 3 to C++ (C++11).[170]
+RPython can be compiled to C, and it is used to build the PyPy interpreter for Python.
