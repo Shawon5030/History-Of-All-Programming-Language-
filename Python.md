@@ -321,3 +321,4 @@ Text processing
 Web frameworks
 Web scraping
 Development environments
+See also: Comparison of integrated development environments § Python
