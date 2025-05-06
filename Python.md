@@ -27,3 +27,4 @@ Automatic
 
 Light
 
+Dark
