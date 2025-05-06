@@ -374,3 +374,4 @@ The Python → 11l → C++ transpiler[171] compiles a subset of Python 3 to C++ 
 There are also specialized compilers:
 
 MyHDL is a Python-based hardware description language (HDL) that converts MyHDL code to Verilog or VHDL code.
+Some older projects existed, as well as compilers not designed for use with Python 3.x and related syntax:
