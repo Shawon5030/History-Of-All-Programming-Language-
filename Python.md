@@ -305,3 +305,4 @@ Some parts of the standard library are covered by specifications—for example, 
 As of 13 March 2025, the Python Package Index (PyPI), the official repository for third-party Python software, contains over 614,339[138] packages. These have a wide range of functionality, including the following:
 
 Automation
+Data analytics
