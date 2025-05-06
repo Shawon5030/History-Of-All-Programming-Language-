@@ -92,3 +92,4 @@ Python 3.13 introduces some changes in behavior, i.e., new "well-defined semanti
 Python 3.13 introduces the experimental free-threaded build mode, which disables the Global Interpreter Lock (GIL); the GIL is a feature of CPython that previously prevented multiple threads from executing Python bytecode simultaneously. This optional build, introduced through PEP 703, enables better exploitation of multi-core CPUs. By allowing multiple threads to run Python code in parallel, the free-threaded mode addresses long-standing performance bottlenecks associated with the GIL. This change offers a new path for parallelism in Python, without resorting to multiprocessing or external concurrency frameworks.[65]
 
 Some additional standard-library modules will be removed in Python 3.15 or 3.16, as will be many deprecated classes, functions and methods.[66][67]
+
