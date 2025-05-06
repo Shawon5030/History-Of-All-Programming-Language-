@@ -23,3 +23,4 @@ Standard
 Wide
 Color (beta)
 
+Automatic
