@@ -253,3 +253,4 @@ Python includes conventional symbols for arithmetic operators (+, -, *, /), the 
 
 Division between integers produces floating-point results. The behavior of division has changed significantly over time:[126]
 
+The current version of Python (i.e., since 3.0) changed the / operator to always represent floating-point division, e.g., 5/2 == 2.5.
