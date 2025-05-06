@@ -204,3 +204,4 @@ Python uses duck typing, and it has typed objects but untyped variable names. Ty
 
 Python allows programmers to define their own types using classes, most often for object-oriented programming. New instances of classes are constructed by calling the class, for example, SpamClass() or EggsClass()); the classes are instances of the metaclass type (which is an instance of itself), thereby allowing metaprogramming and reflection.
 
+Before version 3.0, Python had two kinds of classes, both using the same syntax: old-style and new-style.[117] Current Python versions support the semantics of only the new style.
