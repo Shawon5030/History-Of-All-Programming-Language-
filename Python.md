@@ -254,3 +254,4 @@ Python includes conventional symbols for arithmetic operators (+, -, *, /), the 
 Division between integers produces floating-point results. The behavior of division has changed significantly over time:[126]
 
 The current version of Python (i.e., since 3.0) changed the / operator to always represent floating-point division, e.g., 5/2 == 2.5.
+The floor division // operator was introduced. Thus 7//3 == 2, -7//3 == -3, 7.5//3 == 2.0, and -7.5//3 == -3.0. For outdated Python 2.7 adding the from __future__ import division statement causes a module in Python 2.7 to use Python 3.0 rules for division instead (see above).
