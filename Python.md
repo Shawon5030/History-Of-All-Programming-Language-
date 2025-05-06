@@ -166,3 +166,4 @@ The assignment statement (=) binds a name as a reference to a separate, dynamica
 
 Python does not support tail call optimization or first-class continuations; according to Van Rossum, the language never will.[103][104] However, better support for coroutine-like functionality is provided by extending Python's generators.[105] Before 2.5, generators were lazy iterators; data was passed unidirectionally out of the generator. From Python 2.5 on, it is possible to pass data back into a generator function; and from version 3.3, data can be passed through multiple stack levels.[106]
 
+Expressions
