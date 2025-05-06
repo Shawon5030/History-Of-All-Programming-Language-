@@ -387,3 +387,4 @@ There are several approaches to optimizing Python performance, given the inheren
 
 Just-in-time compilation: Dynamically compiling Python code just before it is executed. This technique is used in libraries such as Numba and PyPy.
 Static compilation: Python code is compiled into machine code sometime before execution. An example of this approach is Cython, which compiles Python into C.
+Concurrency and parallelism: Multiple tasks can be run simultaneously. Python contains modules such as `multiprocessing` to support this form of parallelism. Moreover, this approach helps to overcome limitations of the Global Interpreter Lock (GIL) in CPU tasks.
