@@ -407,3 +407,4 @@ API documentation generators
 Tools that can generate documentation for Python API include pydoc (available as part of the standard library); Sphinx; and Pdoc and its forks, Doxygen and Graphviz.[191]
 
 Naming
+Python's name is inspired by the British comedy group Monty Python, whom Python creator Guido van Rossum enjoyed while developing the language. Monty Python references appear frequently in Python code and culture;[192] for example, the metasyntactic variables often used in Python literature are spam and eggs, rather than the traditional foo and bar.[192][193] The official Python documentation also contains various references to Monty Python routines.[194][195] Python users are sometimes referred to as "Pythonistas".[196]
