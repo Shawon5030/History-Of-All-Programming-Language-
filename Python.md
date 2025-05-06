@@ -191,3 +191,4 @@ In Python, a distinction between expressions and statements is rigidly enforced,
 
 List comprehensions vs. for-loops
 Conditional expressions vs. if blocks
+The eval() vs. exec() built-in functions (in Python 2, exec is a statement); the former function is for expressions, while the latter is for statements
