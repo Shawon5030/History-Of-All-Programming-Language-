@@ -239,3 +239,4 @@ set	mutable	Unordered set, contains no duplicates; can contain mixed types, if h
 set()
 str	immutable	A character string: sequence of Unicode codepoints	'Wikipedia'
 "Wikipedia"
+"""Spanning
