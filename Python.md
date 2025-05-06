@@ -401,3 +401,4 @@ Major or "feature" releases are largely compatible with the previous version but
 Bug fix releases,[189] which introduce no new features, occur approximately every three months; these releases are made when a sufficient number of bugs have been fixed upstream since the last release. Security vulnerabilities are also patched in these releases. The third and final part of the version number is incremented.[189]
 Many alpha, beta, and release-candidates are also released as previews and for testing before final releases. Although there is a rough schedule for releases, they are often delayed if the code is not ready yet. Python's development team monitors the state of the code by running a large unit test suite during development.[190]
 
+The major academic conference on Python is PyCon. There are also special Python mentoring programs, such as PyLadies.
