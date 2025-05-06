@@ -313,3 +313,4 @@ Image processing
 Machine learning
 Mobile apps
 Multimedia
+Computer networking
