@@ -235,3 +235,4 @@ types.NoneType	immutable	An object representing the absence of a value, often ca
 types.NotImplementedType	immutable	A placeholder that can be returned from overloaded operators to indicate unsupported operand types.	NotImplemented
 range	immutable	An immutable sequence of numbers, commonly used for iterating a specific number of times in for loops[124]	range(−1, 10)
 range(10, −5, −2)
+set	mutable	Unordered set, contains no duplicates; can contain mixed types, if hashable	{4.0, 'string', True}
