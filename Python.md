@@ -105,3 +105,4 @@ Python Enhancement Proposal (PEP) 711 proposes PyBI—a standard format for dist
 
 Python 3.15 will "Make UTF-8 mode default";[74] This mode is supported in all current Python versions, but it currently must be opted into. UTF-8 is already used by default on Windows (and other operating systems) for most purposes; an exception is opening files. Enabling UTF-8 also makes code fully cross-platform.
 
+Design philosophy and features
