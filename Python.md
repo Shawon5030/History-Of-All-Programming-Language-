@@ -197,3 +197,4 @@ A statement cannot be part of an expression; because of this restriction, expres
 Methods
 Methods of objects are functions attached to the object's class; the syntax for normal methods and functions, instance.method(argument), is syntactic sugar for Class.method(instance, argument). Python methods have an explicit self parameter to access instance data, in contrast to the implicit self (or this) parameter in some object-oriented programming languages (e.g., C++, Java, Objective-C, Ruby).[115] Python also provides methods, often called dunder methods (because their names begin and end with double underscores); these methods allow user-defined classes to modify how they are handled by native operations including length, comparison, arithmetic, and type conversion.[116]
 
+Typing
