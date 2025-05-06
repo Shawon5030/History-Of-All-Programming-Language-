@@ -265,3 +265,4 @@ Python allows Boolean expressions that contain multiple equality relations to be
 
 Python uses arbitrary-precision arithmetic for all integer operations. The Decimal type/class in the decimal module provides decimal floating-point numbers to a pre-defined arbitrary precision with several rounding modes.[132] The Fraction class in the fractions module provides arbitrary precision for rational numbers.[133]
 
+Due to Python's extensive mathematics library and the third-party library NumPy, the language is frequently used for scientific scripting in tasks such as numerical data processing and manipulation.[134][135]
