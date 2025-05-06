@@ -21,3 +21,4 @@ Width
 Standard
 
 Wide
+Color (beta)
