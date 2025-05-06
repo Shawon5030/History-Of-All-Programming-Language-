@@ -373,3 +373,4 @@ RPython can be compiled to C, and it is used to build the PyPy interpreter for P
 The Python → 11l → C++ transpiler[171] compiles a subset of Python 3 to C++ (C++17).
 There are also specialized compilers:
 
+MyHDL is a Python-based hardware description language (HDL) that converts MyHDL code to Verilog or VHDL code.
