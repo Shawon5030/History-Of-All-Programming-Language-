@@ -151,3 +151,4 @@ C inspired and led to the development of:
 - **Close to hardware**: Learn how memory and CPU work.
 - **Portable**: Write code that runs almost everywhere.
 - **Efficient**: Fast execution and control.
+- **Gateway to other languages**: Foundation for learning C++, Rust, etc.
