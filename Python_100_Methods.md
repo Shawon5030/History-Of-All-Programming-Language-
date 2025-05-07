@@ -47,3 +47,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 22. 'HELLO'.casefold()             # Output: 'hello'
 23. 'hi'.center(5, '*')            # Output: '**hi*'
 24. 'banana'.count('a')            # Output: 3
+25. 'hello'.encode()               # Output: b'hello'
