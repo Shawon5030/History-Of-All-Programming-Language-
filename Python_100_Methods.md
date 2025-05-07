@@ -105,3 +105,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 61. open('file.txt', 'r')               # Opens file for reading
 62. open('file.txt', 'w')               # Opens file for writing
+63. f = open('file.txt'); f.read()      # Reads content
