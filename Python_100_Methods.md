@@ -75,3 +75,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 41. d = {'a': 1}; d.clear()              # d becomes {}
 42. d = {'a': 1}; d.copy()               # Output: {'a': 1}
+43. dict.fromkeys(['a', 'b'], 0)         # Output: {'a': 0, 'b': 0}
