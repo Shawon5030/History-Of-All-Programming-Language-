@@ -147,3 +147,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 97. input("Enter name: ")              # Reads input
 98. print("Hello")                     # Prints output
 99. help(str)                          # Shows help for str
+100. isinstance([1, 2], list)          # Output: True
