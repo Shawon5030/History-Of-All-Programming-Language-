@@ -81,3 +81,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 46. list(d.keys())                       # Output: ['a']
 47. d.pop('a')                           # Removes key 'a'
 48. d.setdefault('b', 2)                 # Adds 'b' with 2 if not exists
+49. d.update({'c': 3})                   # Updates with new key
