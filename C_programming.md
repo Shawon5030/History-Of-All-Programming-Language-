@@ -81,3 +81,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Fixed defects and improved portability for embedded systems.
 
 ### 🧪 C99
+- Released in **1999** (ISO/IEC 9899:1999).
