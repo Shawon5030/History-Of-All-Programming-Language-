@@ -153,3 +153,4 @@ C inspired and led to the development of:
 - **Efficient**: Fast execution and control.
 - **Gateway to other languages**: Foundation for learning C++, Rust, etc.
 - **Used in system-level programming**: Embedded systems, OS, compilers.
+
