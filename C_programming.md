@@ -32,3 +32,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 ## 🧱 Birth of C: 1972
 
+### 👨‍💻 Dennis Ritchie and Bell Labs
