@@ -141,3 +141,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 91. vars()                             # __dict__ of object
 92. dir(str)                           # Lists attributes of str
 93. hasattr(str, 'upper')              # Output: True
+94. delattr(obj, 'attr')               # Deletes attribute
