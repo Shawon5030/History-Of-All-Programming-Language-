@@ -84,3 +84,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Released in **1999** (ISO/IEC 9899:1999).
 - Introduced many features:
   - `inline` functions
+  - Variable Length Arrays (VLAs)
