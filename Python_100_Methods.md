@@ -95,3 +95,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 55. s.discard(2)                         # s becomes {1}
 56. {1, 2}.intersection({2, 3})          # Output: {2}
 57. {1, 2}.issubset({1, 2, 3})           # Output: True
+58. {1, 2}.issuperset({1})               # Output: True
