@@ -35,3 +35,4 @@ The **C programming language** is one of the most influential and widely used pr
 ### 👨‍💻 Dennis Ritchie and Bell Labs
 - **Dennis Ritchie**, working at **Bell Labs**, developed C in **1972**.
 - It was created to improve the B language and develop the **UNIX operating system**.
+- The first version of C was used on a **DEC PDP-11**.
