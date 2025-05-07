@@ -149,3 +149,4 @@ C inspired and led to the development of:
 ## 🧠 Why Learn C Today?
 
 - **Close to hardware**: Learn how memory and CPU work.
+- **Portable**: Write code that runs almost everywhere.
