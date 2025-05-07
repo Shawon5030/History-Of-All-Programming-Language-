@@ -120,3 +120,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 71. zip([1, 2], ['a', 'b'])             # Output: [(1, 'a'), (2, 'b')]
 72. map(str, [1, 2])                    # Output: ['1', '2']
+73. sorted([3, 1, 2])                   # Output: [1, 2, 3]
