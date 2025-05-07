@@ -126,3 +126,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 76. globals()                          # Returns global namespace
 77. locals()                           # Returns local namespace
 78. compile('print(1)', '', 'exec')   # Compiles code
+79. exec("print('Hello')")             # Executes code
