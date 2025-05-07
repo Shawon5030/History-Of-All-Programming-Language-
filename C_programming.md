@@ -126,3 +126,4 @@ C inspired and led to the development of:
 | Language     | Influence |
 |--------------|-----------|
 | C++          | Superset of C with OOP |
+| Objective-C  | C + Smalltalk features |
