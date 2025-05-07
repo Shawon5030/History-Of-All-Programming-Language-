@@ -113,3 +113,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 68. f.seek(0)                           # Moves cursor to start
 69. f.tell()                            # Tells current position
 70. f.close()                           # Closes file
+```
