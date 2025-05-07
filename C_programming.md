@@ -114,3 +114,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 - **UNIX** was the first major operating system written in C.
 - **Linux**, **Windows kernel**, and many embedded systems use C extensively.
+- Languages like **Python**, **Ruby**, and **PHP** are written in C.
