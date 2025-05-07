@@ -27,3 +27,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 7. divmod(8, 3)                     # Output: (2, 2)
 8. list(enumerate(['a', 'b', 'c'])) # Output: [(0, 'a'), (1, 'b'), (2, 'c')]
 9. eval('2 + 3')                    # Output: 5
+10. list(filter(lambda x: x > 0, [-2, 0, 1, 2]))  # Output: [1, 2]
