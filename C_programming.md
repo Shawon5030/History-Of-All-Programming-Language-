@@ -118,3 +118,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Compilers (GCC, Clang), databases (MySQL, PostgreSQL), and network tools (OpenSSL, Git) are C-based.
 
 ---
+
