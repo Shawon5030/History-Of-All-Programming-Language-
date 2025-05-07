@@ -50,3 +50,4 @@ The **C programming language** is one of the most influential and widely used pr
 - C was used to rewrite the UNIX operating system.
 - Improved portability and maintainability of UNIX.
 
+### 📘 K&R C (1978)
