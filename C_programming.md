@@ -38,3 +38,4 @@ The **C programming language** is one of the most influential and widely used pr
 - The first version of C was used on a **DEC PDP-11**.
 
 ### 💡 Key Goals of C:
+- Close to hardware for system programming.
