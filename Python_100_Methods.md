@@ -73,3 +73,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ## 4. Dictionary Methods
 
 ```python
+41. d = {'a': 1}; d.clear()              # d becomes {}
