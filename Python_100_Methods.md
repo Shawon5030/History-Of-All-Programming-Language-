@@ -142,3 +142,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 92. dir(str)                           # Lists attributes of str
 93. hasattr(str, 'upper')              # Output: True
 94. delattr(obj, 'attr')               # Deletes attribute
+95. setattr(obj, 'attr', value)        # Sets attribute
