@@ -93,3 +93,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Published in **2011** (ISO/IEC 9899:2011).
 - Modernized C with:
   - Multithreading support (`<threads.h>`)
+  - Unicode support (`char16_t`, `char32_t`)
