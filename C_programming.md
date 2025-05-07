@@ -129,3 +129,4 @@ C inspired and led to the development of:
 | Objective-C  | C + Smalltalk features |
 | C#           | C-style syntax with .NET integration |
 | Java         | Syntax and philosophy from C/C++ |
+| JavaScript   | C-style syntax |
