@@ -135,3 +135,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 85. ord('a')                           # Output: 97
 86. pow(2, 3)                          # Output: 8
 87. round(3.456, 2)                    # Output: 3.46
+88. slice(1, 3)                        # slice object
