@@ -140,3 +140,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 90. type(3.14)                         # Output: <class 'float'>
 91. vars()                             # __dict__ of object
 92. dir(str)                           # Lists attributes of str
+93. hasattr(str, 'upper')              # Output: True
