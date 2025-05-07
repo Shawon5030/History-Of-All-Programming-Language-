@@ -63,3 +63,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 33. lst = [1, 2]; lst.copy()       # Output: [1, 2]
 34. [1, 2, 2, 3].count(2)          # Output: 2
 35. lst = [1, 2]; lst.extend([3])  # lst becomes [1, 2, 3]
+36. lst.index(2)                   # Output: 1
