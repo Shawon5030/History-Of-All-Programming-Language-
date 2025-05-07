@@ -64,3 +64,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Known as **C89** or **ANSI C**.
 - Adopted by **ISO in 1990** (as **C90**).
 - Added:
+  - Function prototypes
