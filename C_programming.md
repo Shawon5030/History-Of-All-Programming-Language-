@@ -132,3 +132,4 @@ C inspired and led to the development of:
 | JavaScript   | C-style syntax |
 | Go           | C-like simplicity |
 | Rust         | C system-level power with memory safety |
+
