@@ -24,3 +24,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 4. bin(5)                           # Output: '0b101'
 5. bool(0)                          # Output: False
 6. chr(97)                          # Output: 'a'
+7. divmod(8, 3)                     # Output: (2, 2)
