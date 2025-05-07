@@ -68,3 +68,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 38. lst.pop()                      # Removes last element
 39. lst.remove('a')                # Removes 'a' from list
 40. lst.reverse()                  # Reverses list
+```
