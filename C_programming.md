@@ -14,3 +14,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Introduced concepts like code blocks and the begin/end pairs.
 
 ### ➤ CPL (1963)
+- **Combined Programming Language (CPL)** was created to be more powerful than ALGOL.
