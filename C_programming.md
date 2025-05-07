@@ -133,3 +133,4 @@ C inspired and led to the development of:
 | Go           | C-like simplicity |
 | Rust         | C system-level power with memory safety |
 
+---
