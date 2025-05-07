@@ -23,3 +23,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 3. any([False, False, True])       # Output: True
 4. bin(5)                           # Output: '0b101'
 5. bool(0)                          # Output: False
+6. chr(97)                          # Output: 'a'
