@@ -79,3 +79,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 44. d.get('a')                           # Output: 1
 45. list(d.items())                      # Output: [('a', 1)]
 46. list(d.keys())                       # Output: ['a']
+47. d.pop('a')                           # Removes key 'a'
