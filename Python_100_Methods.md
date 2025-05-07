@@ -92,3 +92,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 52. s.clear()                            # s becomes set()
 53. s.copy()                             # Output: {1, 2}
 54. {1, 2, 3}.difference({2, 3})         # Output: {1}
+55. s.discard(2)                         # s becomes {1}
