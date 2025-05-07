@@ -30,3 +30,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 10. list(filter(lambda x: x > 0, [-2, 0, 1, 2]))  # Output: [1, 2]
 11. float('3.14')                   # Output: 3.14
 12. format(255, 'x')                # Output: 'ff'
+13. hex(255)                        # Output: '0xff'
