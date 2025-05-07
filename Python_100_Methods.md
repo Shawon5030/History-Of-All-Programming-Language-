@@ -137,3 +137,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 87. round(3.456, 2)                    # Output: 3.46
 88. slice(1, 3)                        # slice object
 89. sum([1, 2, 3])                     # Output: 6
+90. type(3.14)                         # Output: <class 'float'>
