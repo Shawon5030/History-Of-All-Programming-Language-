@@ -54,3 +54,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 29. 'hello'.upper()                # Output: 'HELLO'
 30. 'Python is fun'.replace('fun', 'awesome') # Output: 'Python is awesome'
 ```
+
