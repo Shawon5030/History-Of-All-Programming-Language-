@@ -31,3 +31,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 11. float('3.14')                   # Output: 3.14
 12. format(255, 'x')                # Output: 'ff'
 13. hex(255)                        # Output: '0xff'
+14. id(5)                           # Output: memory address
