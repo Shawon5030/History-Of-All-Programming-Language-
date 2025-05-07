@@ -116,3 +116,4 @@ The **C programming language** is one of the most influential and widely used pr
 - **Linux**, **Windows kernel**, and many embedded systems use C extensively.
 - Languages like **Python**, **Ruby**, and **PHP** are written in C.
 - Compilers (GCC, Clang), databases (MySQL, PostgreSQL), and network tools (OpenSSL, Git) are C-based.
+
