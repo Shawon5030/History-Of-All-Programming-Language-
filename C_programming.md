@@ -180,3 +180,4 @@ This content is free to use and modify under the MIT License.
 
 ---
 
+## ✍️ Author
