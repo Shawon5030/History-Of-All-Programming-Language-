@@ -101,3 +101,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```
 
 ## 6. File Methods
+
