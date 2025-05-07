@@ -112,3 +112,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 ## 🛠️ C in System Programming
 
+- **UNIX** was the first major operating system written in C.
