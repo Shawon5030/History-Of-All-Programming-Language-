@@ -12,3 +12,4 @@ The **C programming language** is one of the most influential and widely used pr
 - **ALGOL (Algorithmic Language)** was developed in the late 1950s.
 - It influenced many later languages, including C.
 - Introduced concepts like code blocks and the begin/end pairs.
+
