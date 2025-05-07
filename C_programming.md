@@ -22,3 +22,4 @@ The **C programming language** is one of the most influential and widely used pr
 - A simplified version of CPL.
 - Portable and used for writing compilers.
 
+### ➤ B Language (1969–70)
