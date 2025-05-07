@@ -124,3 +124,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 74. reversed([1, 2, 3])                 # Output: [3, 2, 1]
 75. isinstance('hello', str)           # Output: True
 76. globals()                          # Returns global namespace
+77. locals()                           # Returns local namespace
