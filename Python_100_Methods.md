@@ -70,3 +70,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 40. lst.reverse()                  # Reverses list
 ```
 
+## 4. Dictionary Methods
