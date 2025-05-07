@@ -129,3 +129,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 79. exec("print('Hello')")             # Executes code
 80. hash('hello')                      # Returns hash value
 81. isinstance(True, int)              # Output: True
+82. memoryview(b'hello')               # View of byte data
