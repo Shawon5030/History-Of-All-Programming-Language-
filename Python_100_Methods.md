@@ -20,3 +20,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 1. abs(-7)                          # Output: 7
 2. all([True, True, False])        # Output: False
+3. any([False, False, True])       # Output: True
