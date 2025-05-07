@@ -144,3 +144,4 @@ C inspired and led to the development of:
 | **Brian Kernighan**| Co-author of K&R C book            |
 | **Martin Richards**| Creator of BCPL                   |
 
+---
