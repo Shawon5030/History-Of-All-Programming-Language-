@@ -32,3 +32,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 12. format(255, 'x')                # Output: 'ff'
 13. hex(255)                        # Output: '0xff'
 14. id(5)                           # Output: memory address
+15. int('10')                       # Output: 10
