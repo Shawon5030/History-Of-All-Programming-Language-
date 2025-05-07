@@ -104,3 +104,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 ### 🔮 C23
 - Approved in **2023**, with modern language improvements:
+  - Improved UTF-8 support
