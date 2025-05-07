@@ -117,3 +117,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 
 ## Additional Utilities and Concepts (71–100)
 
+```python
