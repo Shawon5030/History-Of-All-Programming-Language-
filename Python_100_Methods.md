@@ -108,3 +108,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 63. f = open('file.txt'); f.read()      # Reads content
 64. f.readline()                        # Reads a line
 65. f.readlines()                       # Reads all lines
+66. f.write("Hello")                    # Writes to file
