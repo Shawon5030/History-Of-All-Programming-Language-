@@ -90,3 +90,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 51. s = {1, 2}; s.add(3)                 # s becomes {1, 2, 3}
 52. s.clear()                            # s becomes set()
+53. s.copy()                             # Output: {1, 2}
