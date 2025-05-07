@@ -134,3 +134,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 84. oct(8)                             # Output: '0o10'
 85. ord('a')                           # Output: 97
 86. pow(2, 3)                          # Output: 8
+87. round(3.456, 2)                    # Output: 3.46
