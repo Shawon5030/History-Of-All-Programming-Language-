@@ -49,3 +49,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 24. 'banana'.count('a')            # Output: 3
 25. 'hello'.encode()               # Output: b'hello'
 26. 'python'.endswith('on')        # Output: True
+27. 'abc\ndef'.expandtabs()        # Output: 'abc\ndef'
