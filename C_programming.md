@@ -170,3 +170,4 @@ C has stood the test of time, evolving steadily while remaining relevant. From o
 - [The C Programming Language (K&R Book)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [ISO/IEC 9899 standards](https://www.iso.org/standard/74528.html)
 - [History of UNIX](https://en.wikipedia.org/wiki/Unix)
+- [Dennis Ritchie Biography](https://en.wikipedia.org/wiki/Dennis_Ritchie)
