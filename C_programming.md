@@ -6,3 +6,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 ---
 
+## 🏁 The Origins: 1960s – The Predecessors
