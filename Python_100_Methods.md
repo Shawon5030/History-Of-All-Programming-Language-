@@ -146,3 +146,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 96. repr(5)                            # Output: '5'
 97. input("Enter name: ")              # Reads input
 98. print("Hello")                     # Prints output
+99. help(str)                          # Shows help for str
