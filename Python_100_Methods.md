@@ -38,3 +38,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 18. list(range(5))                  # Output: [0, 1, 2, 3, 4]
 19. max([1, 2, 3])                  # Output: 3
 20. min([1, 2, 3])                  # Output: 1
+```
