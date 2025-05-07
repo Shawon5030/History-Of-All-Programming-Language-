@@ -23,3 +23,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Portable and used for writing compilers.
 
 ### ➤ B Language (1969–70)
+- Created by **Ken Thompson** at Bell Labs.
