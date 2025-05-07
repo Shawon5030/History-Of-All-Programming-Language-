@@ -56,3 +56,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Introduced:
   - Functions
   - Pointers
+  - Structures
