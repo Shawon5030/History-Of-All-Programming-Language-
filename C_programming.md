@@ -24,3 +24,4 @@ The **C programming language** is one of the most influential and widely used pr
 
 ### ➤ B Language (1969–70)
 - Created by **Ken Thompson** at Bell Labs.
+- A simplified version of BCPL.
