@@ -155,3 +155,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 - [Python Docs](https://docs.python.org/3/library/functions.html)
 - [W3Schools Python Methods](https://www.w3schools.com/python/)
 - [Real Python Tutorials](https://realpython.com/)
+
