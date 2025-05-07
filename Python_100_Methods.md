@@ -139,3 +139,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 89. sum([1, 2, 3])                     # Output: 6
 90. type(3.14)                         # Output: <class 'float'>
 91. vars()                             # __dict__ of object
+92. dir(str)                           # Lists attributes of str
