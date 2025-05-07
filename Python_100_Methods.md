@@ -18,3 +18,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ## 1. Built-in Functions
 
 ```python
+1. abs(-7)                          # Output: 7
