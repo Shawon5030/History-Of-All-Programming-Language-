@@ -143,3 +143,4 @@ C inspired and led to the development of:
 | **Ken Thompson**   | Creator of B and UNIX              |
 | **Brian Kernighan**| Co-author of K&R C book            |
 | **Martin Richards**| Creator of BCPL                   |
+
