@@ -99,3 +99,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 59. {1, 2, 3}.pop()                      # Removes arbitrary element
 60. {1, 2}.union({3, 4})                 # Output: {1, 2, 3, 4}
 ```
+
