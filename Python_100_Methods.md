@@ -10,3 +10,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 - [1. Built-in Functions](#1-built-in-functions)
 - [2. String Methods](#2-string-methods)
 - [3. List Methods](#3-list-methods)
+- [4. Dictionary Methods](#4-dictionary-methods)
