@@ -47,3 +47,4 @@ The **C programming language** is one of the most influential and widely used pr
 ## 📈 Evolution of C
 
 ### 🏗️ Early Versions (1972–1977)
+- C was used to rewrite the UNIX operating system.
