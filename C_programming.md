@@ -140,3 +140,4 @@ C inspired and led to the development of:
 | Name              | Contribution                       |
 |-------------------|------------------------------------|
 | **Dennis Ritchie** | Inventor of the C language         |
+| **Ken Thompson**   | Creator of B and UNIX              |
