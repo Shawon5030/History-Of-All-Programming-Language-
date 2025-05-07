@@ -150,3 +150,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 100. isinstance([1, 2], list)          # Output: True
 ```
 
+---
