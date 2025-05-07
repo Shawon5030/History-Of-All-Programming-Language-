@@ -50,3 +50,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 25. 'hello'.encode()               # Output: b'hello'
 26. 'python'.endswith('on')        # Output: True
 27. 'abc\ndef'.expandtabs()        # Output: 'abc\ndef'
+28. 'HELLO'.lower()                # Output: 'hello'
