@@ -144,3 +144,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 94. delattr(obj, 'attr')               # Deletes attribute
 95. setattr(obj, 'attr', value)        # Sets attribute
 96. repr(5)                            # Output: '5'
+97. input("Enter name: ")              # Reads input
