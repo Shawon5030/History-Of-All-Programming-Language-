@@ -33,3 +33,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 13. hex(255)                        # Output: '0xff'
 14. id(5)                           # Output: memory address
 15. int('10')                       # Output: 10
+16. isinstance(5, int)              # Output: True
