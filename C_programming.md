@@ -51,3 +51,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Improved portability and maintainability of UNIX.
 
 ### 📘 K&R C (1978)
+- **"The C Programming Language"** by **Brian Kernighan** and **Dennis Ritchie** was published.
