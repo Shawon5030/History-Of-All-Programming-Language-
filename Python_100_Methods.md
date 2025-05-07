@@ -36,3 +36,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 16. isinstance(5, int)              # Output: True
 17. len("Hello")                    # Output: 5
 18. list(range(5))                  # Output: [0, 1, 2, 3, 4]
+19. max([1, 2, 3])                  # Output: 3
