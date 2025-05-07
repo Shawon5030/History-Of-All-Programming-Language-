@@ -84,3 +84,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 49. d.update({'c': 3})                   # Updates with new key
 50. list(d.values())                     # Output: values of dict
 ```
+
