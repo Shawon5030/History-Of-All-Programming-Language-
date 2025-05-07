@@ -58,3 +58,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ## 3. List Methods
 
 ```python
+31. lst = [1, 2]; lst.append(3)    # lst becomes [1, 2, 3]
