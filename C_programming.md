@@ -77,3 +77,4 @@ The **C programming language** is one of the most influential and widely used pr
 - Ensured compatibility and portability across compilers and platforms.
 
 ### 🚀 C95
+- A minor revision released in **1995** (ISO/IEC 9899:1995).
