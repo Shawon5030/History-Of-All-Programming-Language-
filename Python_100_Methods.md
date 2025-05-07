@@ -44,3 +44,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 
 ```python
 21. 'hello'.capitalize()           # Output: 'Hello'
+22. 'HELLO'.casefold()             # Output: 'hello'
