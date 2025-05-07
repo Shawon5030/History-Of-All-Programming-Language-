@@ -60,3 +60,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 ```python
 31. lst = [1, 2]; lst.append(3)    # lst becomes [1, 2, 3]
 32. lst.clear()                    # lst becomes []
+33. lst = [1, 2]; lst.copy()       # Output: [1, 2]
