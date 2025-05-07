@@ -109,3 +109,4 @@ A curated list of 100 essential Python methods and functions, complete with desc
 64. f.readline()                        # Reads a line
 65. f.readlines()                       # Reads all lines
 66. f.write("Hello")                    # Writes to file
+67. f.writelines(['Hi\n', 'Hello'])    # Writes lines
