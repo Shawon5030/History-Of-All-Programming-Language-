@@ -86,3 +86,4 @@ The **C programming language** is one of the most influential and widely used pr
   - `inline` functions
   - Variable Length Arrays (VLAs)
   - `long long` type
+  - New library functions
