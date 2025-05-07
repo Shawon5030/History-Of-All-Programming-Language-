@@ -54,3 +54,4 @@ The **C programming language** is one of the most influential and widely used pr
 - **"The C Programming Language"** by **Brian Kernighan** and **Dennis Ritchie** was published.
 - Also known as **K&R C**, this book served as the **de facto standard** of C.
 - Introduced:
+  - Functions
