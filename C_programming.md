@@ -152,3 +152,4 @@ C inspired and led to the development of:
 - **Portable**: Write code that runs almost everywhere.
 - **Efficient**: Fast execution and control.
 - **Gateway to other languages**: Foundation for learning C++, Rust, etc.
+- **Used in system-level programming**: Embedded systems, OS, compilers.
