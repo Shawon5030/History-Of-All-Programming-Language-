@@ -159,3 +159,4 @@ C inspired and led to the development of:
 ## 🏁 Conclusion
 
 C has stood the test of time, evolving steadily while remaining relevant. From operating systems and databases to compilers and game engines, C continues to power much of the world’s computing infrastructure. Its syntax, performance, and portability make it a vital language in computer science education and system development.
+
