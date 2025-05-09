@@ -174,3 +174,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 🧠 PHP Basics
 - Introduction to PHP
 - PHP Syntax and Tags
+- Comments in PHP
