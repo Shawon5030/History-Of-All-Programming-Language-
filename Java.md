@@ -100,3 +100,4 @@ String[] fruits = {"Apple", "Banana"};
 ArrayList<String> colors = new ArrayList<>();
 colors.add("Red");
 colors.add("Blue");
+```
