@@ -259,3 +259,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - MVC Architecture
 - Routing and Controllers
 - Templating Engines (e.g., Blade, Twig)
+
