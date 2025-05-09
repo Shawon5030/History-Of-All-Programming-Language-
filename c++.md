@@ -286,3 +286,4 @@ void loop() {
 ```cpp
 // Low-latency pattern
 alignas(64) struct Packet {
+    uint64_t timestamp;
