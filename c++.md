@@ -237,3 +237,4 @@ for (int i = 0; i < N; ++i) {
 
 ## 🛠️ Development Tools
 
+### 1. Debugging (GDB)
