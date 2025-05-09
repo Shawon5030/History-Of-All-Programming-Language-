@@ -89,3 +89,4 @@ const add = (a, b) => a + b;
 (function() {
   console.log("Immediately invoked");
 })();
+```
