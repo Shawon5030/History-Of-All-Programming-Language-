@@ -60,3 +60,4 @@ g++ program.cpp -o output
 
 ### 1. Variables and Data Types
 ```cpp
+// Primitive Types
