@@ -139,3 +139,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 - PHP continues to be a dominant force in web development.
 - It powers popular platforms such as:
+  - **WordPress** (used by 40%+ of websites)
