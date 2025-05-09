@@ -114,3 +114,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - PDO (PHP Data Objects) for database abstraction
 
 ### 🔹 2015 – PHP 7
+
