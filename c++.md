@@ -217,3 +217,4 @@ t1.join();
 ### 1. Inline Assembly
 ```cpp
 asm("mov %eax, 5");  // Platform-specific
+```
