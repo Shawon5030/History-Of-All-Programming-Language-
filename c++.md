@@ -108,3 +108,4 @@ delete heap_var;  // Manual deallocation
 unique_ptr<int> smart_ptr = make_unique<int>(30);
 ```
 
+---
