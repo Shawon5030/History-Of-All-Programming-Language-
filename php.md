@@ -133,3 +133,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Named arguments
   - Constructor property promotion
   - Union types
+  - Nullsafe operator (`?->`)
