@@ -15,3 +15,4 @@
 ## 🗄️ PHP and MySQL Integration
 ## 🧰 Useful Built-in Functions
 ## ⚠️ Error Handling
+## 🚦 Best Practices
