@@ -256,3 +256,4 @@ class TodoApp {
 ```
 
 This structure can easily expand to 10,000+ words by:
+1. Adding detailed explanations to each code example
