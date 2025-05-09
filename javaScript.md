@@ -241,3 +241,4 @@ class TodoApp {
 - Memory leak prevention
 
 ## 🔒 Security Best Practices (800+ words)
+- XSS prevention
