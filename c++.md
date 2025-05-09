@@ -261,3 +261,4 @@ clang-tidy --checks=* program.cpp
 ## 🧪 Practical Applications
 
 ### 1. Game Development
+```cpp
