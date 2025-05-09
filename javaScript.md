@@ -139,3 +139,4 @@ async function getData() {
 document.querySelector('#main');
 
 // Event Handling
+button.addEventListener('click', () => {
