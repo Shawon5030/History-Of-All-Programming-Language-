@@ -100,3 +100,4 @@ auto greet = [](string name) { return "Hello " + name; };
 // Stack allocation
 int stack_var = 10;
 
+// Heap allocation
