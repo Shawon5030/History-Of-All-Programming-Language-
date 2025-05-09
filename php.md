@@ -238,3 +238,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Date and Time Functions
 - Math Functions
 - File System Functions
+- Error Handling Functions
