@@ -62,3 +62,4 @@ typeof undefined;         // 'undefined'
 ```
 
 ### 2. Operators (300+ words)
+```javascript
