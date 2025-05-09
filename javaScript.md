@@ -165,3 +165,4 @@ try {
   riskyOperation();
 } catch (error) {
   console.error(error.stack);
+} finally {
