@@ -61,3 +61,4 @@ typeof { key: "value" };  // 'object'
 typeof undefined;         // 'undefined'
 ```
 
+### 2. Operators (300+ words)
