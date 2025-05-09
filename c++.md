@@ -311,3 +311,4 @@ This documentation covers:
 8. **Toolchain setup** for professional development
 
 Each section can be expanded with:
+- Detailed use cases
