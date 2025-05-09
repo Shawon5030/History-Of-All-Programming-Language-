@@ -75,3 +75,4 @@ true && false; // AND
 null ?? "default"; // Nullish coalescing
 ```
 
+### 3. Functions (500+ words)
