@@ -207,3 +207,4 @@ This Markdown document includes:
 2. Proper Java code blocks with syntax highlighting
 3. Tables for version history
 4. Examples for all major Java concepts
+5. Environment setup instructions
