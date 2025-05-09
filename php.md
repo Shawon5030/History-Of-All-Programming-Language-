@@ -236,3 +236,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 🧰 Useful Built-in Functions
 - String Functions (`strlen()`, `strpos()`, `substr()`, etc.)
 - Date and Time Functions
+- Math Functions
