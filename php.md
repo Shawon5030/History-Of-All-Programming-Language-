@@ -76,3 +76,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 ### 🔹 1994 – The Birth of PHP
 
+- **Rasmus Lerdorf**, a Danish-Canadian programmer, originally created PHP in 1994.
