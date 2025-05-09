@@ -94,3 +94,4 @@ int power(int base, int exp = 2) {
 // Lambda expression
 auto greet = [](string name) { return "Hello " + name; };
 ```
+
