@@ -76,3 +76,4 @@ long double extended_precision = 3.1415926535;
 // If-Else with initializer
 if (auto result = calculate(); result > 0) {
     cout << "Positive";
+}
