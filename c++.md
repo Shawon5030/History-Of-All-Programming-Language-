@@ -129,3 +129,4 @@ Rectangle rect(10, 20);
 cout << rect.area();
 ```
 
+### 2. Inheritance
