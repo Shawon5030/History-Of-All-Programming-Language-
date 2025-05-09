@@ -13,3 +13,4 @@ JavaScript is a lightweight, interpreted scripting language primarily used for w
 - Event-driven, non-blocking architecture
 
 ```javascript
+// Hello World Example
