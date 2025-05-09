@@ -285,3 +285,4 @@ void loop() {
 ### 3. High-Frequency Trading
 ```cpp
 // Low-latency pattern
+alignas(64) struct Packet {
