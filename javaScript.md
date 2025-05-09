@@ -92,3 +92,4 @@ const add = (a, b) => a + b;
 ```
 
 ### 4. Objects and Prototypes (800+ words)
+```javascript
