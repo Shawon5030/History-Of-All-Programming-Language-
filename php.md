@@ -109,3 +109,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Marked a major shift in the language with full support for **Object-Oriented Programming (OOP)**.
 - Added features like:
   - `try/catch` exception handling
+  - Better support for XML
