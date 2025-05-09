@@ -96,3 +96,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - PHP 3 became the first version widely used by developers.
 
 ### 🔹 2000 – PHP 4
+
