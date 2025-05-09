@@ -172,3 +172,4 @@ LocalDate.now();
 LocalTime.now();
 
 // Math operations
+Math.max(5, 10);
