@@ -264,3 +264,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Contact Form with Validation
 - Simple Blog with CRUD
 - User Authentication System
+- File Upload Script
