@@ -310,3 +310,4 @@ This documentation covers:
 7. **Industry applications** (gaming, embedded, finance)
 8. **Toolchain setup** for professional development
 
+Each section can be expanded with:
