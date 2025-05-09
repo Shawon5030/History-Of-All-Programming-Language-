@@ -266,3 +266,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - User Authentication System
 - File Upload Script
 
+## 🧾 Summary and Resources
