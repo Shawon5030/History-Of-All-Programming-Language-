@@ -135,3 +135,4 @@ myCar.start();
 ```java
 try {
     int result = 10 / 0;
+} catch (ArithmeticException e) {
