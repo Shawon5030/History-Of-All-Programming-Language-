@@ -187,3 +187,4 @@ http.createServer((req, res) => {
 | Framework | Use Case |
 |-----------|----------|
 | React | UI Components |
+| Angular | Enterprise Apps |
