@@ -126,3 +126,4 @@ public:
 };
 
 Rectangle rect(10, 20);
+cout << rect.area();
