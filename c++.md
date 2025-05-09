@@ -253,3 +253,4 @@ add_executable(app main.cpp)
 
 ### 3. Static Analysis
 ```bash
+clang-tidy --checks=* program.cpp
