@@ -181,3 +181,4 @@ Math.sqrt(25);
 - Use proper encapsulation
 - Handle exceptions properly
 - Write unit tests
+- Document your code
