@@ -55,3 +55,4 @@ PHP is capable of performing a wide variety of tasks, including:
 
 ### 🖥️ PHP in Action
 
+PHP is most commonly embedded directly into HTML files. Here's a very simple PHP example:
