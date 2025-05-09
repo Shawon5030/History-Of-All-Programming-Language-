@@ -134,3 +134,4 @@ cout << rect.area();
 class Shape {
 public:
     virtual double area() const = 0;  // Pure virtual
+};
