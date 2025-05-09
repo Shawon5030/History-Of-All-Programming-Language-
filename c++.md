@@ -141,3 +141,4 @@ class Circle : public Shape {
 public:
     double area() const override {
         return 3.14 * radius * radius;
+    }
