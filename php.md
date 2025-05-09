@@ -267,3 +267,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - File Upload Script
 
 ## 🧾 Summary and Resources
+- Summary of Key Concepts
