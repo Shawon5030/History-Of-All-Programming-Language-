@@ -70,3 +70,4 @@ typeof undefined;         // 'undefined'
 "5" == 5;  // true (loose equality)
 "5" === 5; // false (strict equality)
 
+// Logical
