@@ -115,3 +115,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 ### 🔹 2015 – PHP 7
 
+- Skipped PHP 6 due to internal challenges and confusion.
