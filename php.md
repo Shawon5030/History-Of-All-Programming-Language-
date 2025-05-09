@@ -155,3 +155,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 ## ⚙️ PHP Setup and Installation
 
 Before writing and running PHP code, you need to set up a development environment. PHP is cross-platform and can run on Windows, macOS, and Linux. Let’s go through the different options for installing and running PHP.
+
