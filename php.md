@@ -111,3 +111,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - `try/catch` exception handling
   - Better support for XML
   - Integration with web services (SOAP)
+  - PDO (PHP Data Objects) for database abstraction
