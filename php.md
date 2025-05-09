@@ -132,3 +132,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Match expressions (like `switch`, but better)
   - Named arguments
   - Constructor property promotion
+  - Union types
