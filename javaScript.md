@@ -113,3 +113,4 @@ Person.prototype.speak = function() { /* ... */ };
 ```javascript
 // Callbacks
 fs.readFile('file.txt', (err, data) => {
+  if (err) throw err;
