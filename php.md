@@ -254,3 +254,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Error and Exception Handling
 
 ## 📚 PHP Frameworks (Laravel, Symfony, etc.)
+- Introduction to Laravel
