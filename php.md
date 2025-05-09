@@ -251,3 +251,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Separation of Logic and Presentation
 - Input Validation and Sanitization
 - Using Configuration Files
+- Error and Exception Handling
