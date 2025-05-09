@@ -46,3 +46,4 @@ java -version
 ## 🧠 Java Basics
 ### Syntax:
 ```java
+// Single-line comment
