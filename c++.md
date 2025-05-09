@@ -207,3 +207,4 @@ void task() {
 }
 
 thread t1(task);
+t1.join();
