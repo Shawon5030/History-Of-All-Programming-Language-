@@ -26,3 +26,4 @@ public class HelloWorld {
 |------|---------|--------------|
 | 1995 | Java 1.0 | Initial release |
 | 2004 | Java 5 | Generics, autoboxing |
+| 2014 | Java 8 | Lambdas, Stream API |
