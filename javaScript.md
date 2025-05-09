@@ -137,3 +137,4 @@ async function getData() {
 ```javascript
 // Selecting Elements
 document.querySelector('#main');
+
