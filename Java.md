@@ -190,3 +190,4 @@ Math.sqrt(25);
 - Micronaut
 
 ## 🧪 Sample Projects
+1. Calculator application
