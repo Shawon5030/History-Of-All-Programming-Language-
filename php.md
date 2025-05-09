@@ -125,3 +125,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Anonymous classes
 
 ### 🔹 2020 – PHP 8
+
