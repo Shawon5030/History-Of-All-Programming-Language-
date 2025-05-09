@@ -14,3 +14,4 @@
 ## 🧑‍💻 Session and Cookie Management
 ## 🗄️ PHP and MySQL Integration
 ## 🧰 Useful Built-in Functions
+## ⚠️ Error Handling
