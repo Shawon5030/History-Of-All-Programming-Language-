@@ -4,3 +4,4 @@ Here's a comprehensive **JavaScript documentation** in Markdown format, followin
 # JavaScript Language Documentation
 
 ## 📜 Introduction
+JavaScript is a lightweight, interpreted scripting language primarily used for web development. 
