@@ -122,3 +122,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Return type declarations
   - Null coalescing operator (`??`)
   - Spaceship operator (`<=>`)
+  - Anonymous classes
