@@ -16,3 +16,4 @@ C++ is a high-performance, general-purpose programming language created by Bjarn
 ```cpp
 // Hello World Example
 #include <iostream>
+using namespace std;
