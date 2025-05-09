@@ -196,3 +196,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Built-in vs User-defined Functions
 
 ## 📦 Arrays
+- Indexed Arrays
