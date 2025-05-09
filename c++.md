@@ -58,3 +58,4 @@ g++ program.cpp -o output
 
 ## 🧠 Core Concepts
 
+### 1. Variables and Data Types
