@@ -6,3 +6,4 @@
 ## 🧠 PHP Basics
 ## 🧮 Variables and Data Types
 ## 🔁 Control Structures
+## 🧱 Functions
