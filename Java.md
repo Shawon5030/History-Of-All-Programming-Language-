@@ -134,3 +134,4 @@ myCar.start();
 ## 🌐 Exception Handling
 ```java
 try {
+    int result = 10 / 0;
