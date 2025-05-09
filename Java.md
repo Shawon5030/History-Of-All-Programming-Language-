@@ -48,3 +48,4 @@ java -version
 ```java
 // Single-line comment
 /* Multi-line comment */
+System.out.println("Hello"); // Output
