@@ -104,3 +104,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - More robust configuration options
 
 ### 🔹 2004 – PHP 5
+
