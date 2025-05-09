@@ -73,3 +73,4 @@ if (age > 18) {
 
 ### Loops:
 ```java
+for (int i = 0; i < 5; i++) {
