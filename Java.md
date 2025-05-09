@@ -69,3 +69,4 @@ if (age > 18) {
 } else {
     System.out.println("Minor");
 }
+```
