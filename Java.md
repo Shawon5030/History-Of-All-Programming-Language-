@@ -11,3 +11,4 @@ Java is a high-level, object-oriented programming language developed by Sun Micr
 - Automatic memory management (Garbage Collection)
 - Strong type system
 - Multi-threading support
+- Rich standard library
