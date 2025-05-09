@@ -83,3 +83,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 ### 🔹 1995 – PHP/FI (Form Interpreter)
 
 - Rasmus released the source code to the public to allow others to use and contribute.
+- PHP was rewritten into a more robust scripting language called **PHP/FI** (Personal Home Page / Forms Interpreter).
