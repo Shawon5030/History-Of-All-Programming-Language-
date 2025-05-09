@@ -191,3 +191,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 🧱 Functions
 - Defining and Calling Functions
+- Function Parameters and Return Values
