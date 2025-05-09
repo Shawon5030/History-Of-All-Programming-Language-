@@ -16,3 +16,4 @@
 ## 🧰 Useful Built-in Functions
 ## ⚠️ Error Handling
 ## 🚦 Best Practices
+## 📚 PHP Frameworks (Laravel, Symfony, etc.)
