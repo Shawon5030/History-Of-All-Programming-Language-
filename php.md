@@ -205,3 +205,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Reading and Writing Files
 - File Modes (`r`, `w`, `a`, etc.)
 - `fopen()`, `fread()`, `fwrite()`, `fclose()`
+- File Uploads
