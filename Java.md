@@ -82,3 +82,4 @@ for (int num : numbers) {
 }
 
 while (age < 100) {
+    age++;
