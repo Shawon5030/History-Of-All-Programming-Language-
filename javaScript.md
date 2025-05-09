@@ -225,3 +225,4 @@ async function fetchUsers() {
 class TodoApp {
   constructor() {
     this.todos = [];
+  }
