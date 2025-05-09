@@ -242,3 +242,4 @@ for (int i = 0; i < N; ++i) {
 g++ -g program.cpp
 gdb ./a.out
 ```
+
