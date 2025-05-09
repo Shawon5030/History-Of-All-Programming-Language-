@@ -107,3 +107,4 @@ delete heap_var;  // Manual deallocation
 // Smart pointers (C++11+)
 unique_ptr<int> smart_ptr = make_unique<int>(30);
 ```
+
