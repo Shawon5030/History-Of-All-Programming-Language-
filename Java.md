@@ -97,3 +97,4 @@ System.out.println(greet("Alice"));
 ## 📦 Arrays & Collections
 ```java
 String[] fruits = {"Apple", "Banana"};
+ArrayList<String> colors = new ArrayList<>();
