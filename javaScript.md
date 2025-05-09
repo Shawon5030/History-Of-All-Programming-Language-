@@ -51,3 +51,4 @@ node app.js
 ```javascript
 // Variable Declarations
 let mutableVar = "can change";
+const immutableVar = "constant";
