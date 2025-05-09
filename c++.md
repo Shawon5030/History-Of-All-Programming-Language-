@@ -202,3 +202,4 @@ vector<string> createStrings() {
 ```cpp
 #include <thread>
 
+void task() {
