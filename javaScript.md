@@ -138,3 +138,4 @@ async function getData() {
 // Selecting Elements
 document.querySelector('#main');
 
+// Event Handling
