@@ -152,3 +152,4 @@ element.innerHTML = '<p>New content</p>';
 // Destructuring
 const { name, age } = user;
 
+// Spread Operator
