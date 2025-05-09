@@ -77,3 +77,4 @@ long double extended_precision = 3.1415926535;
 if (auto result = calculate(); result > 0) {
     cout << "Positive";
 }
+
