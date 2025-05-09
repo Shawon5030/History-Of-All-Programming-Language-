@@ -94,3 +94,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Support for many databases and protocols
   - The name was changed to **"PHP: Hypertext Preprocessor"** (a recursive acronym).
 - PHP 3 became the first version widely used by developers.
+
