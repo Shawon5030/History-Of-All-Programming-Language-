@@ -144,3 +144,4 @@ button.addEventListener('click', () => {
 });
 
 // Dynamic Updates
+element.innerHTML = '<p>New content</p>';
