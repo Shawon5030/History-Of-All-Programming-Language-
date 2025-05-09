@@ -43,3 +43,4 @@ export PATH=$JAVA_HOME/bin:$PATH
 java -version
 ```
 
+## 🧠 Java Basics
