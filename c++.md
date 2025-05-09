@@ -120,3 +120,4 @@ private:
 public:
     // Constructor
     Rectangle(int w, int h) : width(w), height(h) {}
+
