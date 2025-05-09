@@ -73,3 +73,4 @@ PHP is most commonly embedded directly into HTML files. Here's a very simple PHP
 ## 🕰️ History of PHP
 
 The history of PHP is a fascinating journey of how a simple set of scripts evolved into one of the most popular programming languages on the web.
+
