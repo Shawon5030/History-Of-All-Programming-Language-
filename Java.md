@@ -65,3 +65,4 @@ int[] numbers = {1, 2, 3}; // Array
 ### If-Else:
 ```java
 if (age > 18) {
+    System.out.println("Adult");
