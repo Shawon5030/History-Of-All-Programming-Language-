@@ -206,3 +206,4 @@ void task() {
     cout << "Running in thread";
 }
 
+thread t1(task);
