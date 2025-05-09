@@ -118,3 +118,4 @@ class Rectangle {
 private:
     int width, height;
 public:
+    // Constructor
