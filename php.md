@@ -102,3 +102,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Output buffering
   - Session handling
   - More robust configuration options
+
