@@ -228,3 +228,4 @@ class TodoApp {
   }
   addTodo(text) {
     this.todos.push({ id: Date.now(), text });
+  }
