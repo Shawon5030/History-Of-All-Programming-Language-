@@ -196,3 +196,4 @@ vector<string> createStrings() {
     vector<string> temp = {"a", "b", "c"};
     return temp;  // Move constructor invoked
 }
+```
