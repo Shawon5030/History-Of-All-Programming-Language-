@@ -83,3 +83,4 @@ function greet(name) {
 }
 
 // Arrow Function
+const add = (a, b) => a + b;
