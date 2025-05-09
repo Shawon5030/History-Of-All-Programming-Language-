@@ -61,3 +61,4 @@ g++ program.cpp -o output
 ### 1. Variables and Data Types
 ```cpp
 // Primitive Types
+int age = 30;              // 4 bytes
