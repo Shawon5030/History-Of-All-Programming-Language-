@@ -7,3 +7,4 @@
 ## 🧮 Variables and Data Types
 ## 🔁 Control Structures
 ## 🧱 Functions
+## 📦 Arrays
