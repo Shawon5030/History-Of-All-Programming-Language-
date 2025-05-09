@@ -32,3 +32,4 @@ int main() {
 | 2011 | C++11    | Auto, lambdas, move semantics |
 | 2020 | C++20    | Concepts, ranges, coroutines |
 | 2023 | C++23    | std::mdspan, stacktraces |
+
