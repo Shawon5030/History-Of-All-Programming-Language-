@@ -45,3 +45,4 @@ PHP is capable of performing a wide variety of tasks, including:
 
 - Generating dynamic page content
 - Collecting form data
+- Sending and receiving cookies
