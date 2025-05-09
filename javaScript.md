@@ -23,3 +23,4 @@ console.log("Hello World!");
 | 1995 | Created by Brendan Eich (Netscape) in 10 days |
 | 1997 | ECMAScript 1 standardization |
 | 2009 | ES5 (strict mode, JSON support) |
+| 2015 | ES6/ES2015 (Modern JS) |
