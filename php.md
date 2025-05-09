@@ -38,3 +38,4 @@ PHP powers **over 75%** of websites that use server-side programming. Some of th
 - 🌐 **Database Integration:** Excellent support for databases like MySQL, PostgreSQL, SQLite, etc.
 - 🧰 **Rich Library Support:** Offers thousands of built-in functions.
 - 🔒 **Security:** Provides tools and practices to build secure web apps.
+
