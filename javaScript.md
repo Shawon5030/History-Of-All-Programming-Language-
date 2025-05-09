@@ -125,3 +125,4 @@ fetch('https://api.example.com')
 // Async/Await
 async function getData() {
   const response = await fetch(url);
+  return response.json();
