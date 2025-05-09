@@ -122,3 +122,4 @@ public:
     Rectangle(int w, int h) : width(w), height(h) {}
 
     // Method
+    int area() const { return width * height; }
