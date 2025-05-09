@@ -234,3 +234,4 @@ class TodoApp {
 
 ---
 
+## 🚀 Performance Optimization (1000+ words)
