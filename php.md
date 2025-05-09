@@ -207,3 +207,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - `fopen()`, `fread()`, `fwrite()`, `fclose()`
 - File Uploads
 
+## 🗃️ Object-Oriented Programming in PHP
