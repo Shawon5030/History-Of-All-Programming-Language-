@@ -98,3 +98,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 ### 🔹 2000 – PHP 4
 
 - Built on the **Zend Engine 1.0**, developed by Suraski and Gutmans.
+- Improved performance and introduced features like:
