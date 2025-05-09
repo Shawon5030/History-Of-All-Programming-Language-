@@ -145,3 +145,4 @@ try {
 ## 🧵 Multithreading
 ```java
 class MyThread extends Thread {
+    public void run() {
