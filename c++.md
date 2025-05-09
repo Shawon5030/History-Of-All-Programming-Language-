@@ -42,3 +42,4 @@ int main() {
 # Linux
 sudo apt install g++
 
+# macOS
