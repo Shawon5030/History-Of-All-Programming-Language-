@@ -62,3 +62,4 @@ g++ program.cpp -o output
 ```cpp
 // Primitive Types
 int age = 30;              // 4 bytes
+double price = 9.99;       // 8 bytes
