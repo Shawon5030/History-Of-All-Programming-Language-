@@ -157,3 +157,4 @@ new MyThread().start();
 ```java
 Connection conn = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/mydb", "user", "pass");
+Statement stmt = conn.createStatement();
