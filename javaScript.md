@@ -195,3 +195,4 @@ http.createServer((req, res) => {
 - Webpack
 - Babel
 - ESLint
+- Jest
