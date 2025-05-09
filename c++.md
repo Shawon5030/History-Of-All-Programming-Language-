@@ -30,3 +30,4 @@ int main() {
 | 1985 | C++ 1.0  | First commercial release |
 | 1998 | C++98    | First ISO standard |
 | 2011 | C++11    | Auto, lambdas, move semantics |
+| 2020 | C++20    | Concepts, ranges, coroutines |
