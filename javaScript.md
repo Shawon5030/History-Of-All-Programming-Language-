@@ -227,3 +227,4 @@ class TodoApp {
     this.todos = [];
   }
   addTodo(text) {
+    this.todos.push({ id: Date.now(), text });
