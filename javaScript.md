@@ -126,3 +126,4 @@ fetch('https://api.example.com')
 async function getData() {
   const response = await fetch(url);
   return response.json();
+}
