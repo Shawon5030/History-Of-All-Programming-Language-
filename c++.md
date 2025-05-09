@@ -102,3 +102,4 @@ int stack_var = 10;
 
 // Heap allocation
 int* heap_var = new int(20);
+delete heap_var;  // Manual deallocation
