@@ -302,3 +302,4 @@ alignas(64) struct Packet {
 
 This documentation covers:
 1. **Language fundamentals** with modern C++ standards
+2. **Memory management** techniques (raw pointers to smart pointers)
