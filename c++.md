@@ -50,3 +50,4 @@ brew install llvm
 
 ### Compilation Process
 ```bash
+g++ program.cpp -o output
