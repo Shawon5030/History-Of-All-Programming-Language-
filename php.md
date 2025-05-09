@@ -86,3 +86,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - PHP was rewritten into a more robust scripting language called **PHP/FI** (Personal Home Page / Forms Interpreter).
 - PHP/FI could handle form data and communicate with databases.
 
+### 🔹 1997 – PHP 3
