@@ -124,3 +124,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Spaceship operator (`<=>`)
   - Anonymous classes
 
+### 🔹 2020 – PHP 8
