@@ -91,3 +91,4 @@ while (age < 100) {
 public String greet(String name) {
     return "Hello " + name;
 }
+System.out.println(greet("Alice"));
