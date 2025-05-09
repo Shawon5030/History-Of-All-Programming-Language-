@@ -265,3 +265,4 @@ clang-tidy --checks=* program.cpp
 // Unreal Engine snippet
 void ACharacter::Jump() {
     if (CanJump()) {
+        Velocity.Z = JumpZVelocity;
