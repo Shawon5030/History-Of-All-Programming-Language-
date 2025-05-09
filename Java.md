@@ -52,3 +52,4 @@ System.out.println("Hello"); // Output
 ```
 
 ## 🧮 Variables and Data Types
+```java
