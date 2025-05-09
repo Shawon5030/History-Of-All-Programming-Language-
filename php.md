@@ -49,3 +49,4 @@ PHP is capable of performing a wide variety of tasks, including:
 - Performing server-side file manipulation (create, open, read, write)
 - Managing sessions
 - Interacting with databases
+- Creating full-scale web applications
