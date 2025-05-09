@@ -197,3 +197,4 @@ Math.sqrt(25);
 
 ## 🧾 Resources
 - [Oracle Java Docs](https://docs.oracle.com/en/java/)
+- [Java Tutorials](https://docs.oracle.com/javase/tutorial/)
