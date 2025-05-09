@@ -245,3 +245,4 @@ class TodoApp {
 - CSP headers
 - JWT authentication
 - Input sanitization
+
