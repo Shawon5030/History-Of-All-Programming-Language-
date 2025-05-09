@@ -255,3 +255,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 📚 PHP Frameworks (Laravel, Symfony, etc.)
 - Introduction to Laravel
+- Introduction to Symfony
