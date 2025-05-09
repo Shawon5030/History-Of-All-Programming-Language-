@@ -168,3 +168,4 @@ ResultSet rs = stmt.executeQuery("SELECT * FROM users");
 "Java".substring(1, 3);
 
 // Date/time
+LocalDate.now();
