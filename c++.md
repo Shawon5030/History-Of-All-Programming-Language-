@@ -137,3 +137,4 @@ public:
 };
 
 class Circle : public Shape {
+    double radius;
