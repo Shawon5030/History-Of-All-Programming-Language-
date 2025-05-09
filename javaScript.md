@@ -20,3 +20,4 @@ console.log("Hello World!");
 ## 🕰️ History of JavaScript
 | Year | Milestone |
 |------|-----------|
+| 1995 | Created by Brendan Eich (Netscape) in 10 days |
