@@ -117,3 +117,4 @@ fs.readFile('file.txt', (err, data) => {
   console.log(data);
 });
 
+// Promises
