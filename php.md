@@ -88,3 +88,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 ### 🔹 1997 – PHP 3
 
+- Developers **Zeev Suraski** and **Andi Gutmans** rewrote PHP and launched **PHP 3**.
