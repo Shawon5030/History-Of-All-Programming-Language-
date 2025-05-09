@@ -198,3 +198,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 📦 Arrays
 - Indexed Arrays
 - Associative Arrays
+- Multidimensional Arrays
