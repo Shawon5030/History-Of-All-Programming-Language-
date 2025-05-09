@@ -118,3 +118,4 @@ fs.readFile('file.txt', (err, data) => {
 });
 
 // Promises
+fetch('https://api.example.com')
