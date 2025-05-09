@@ -163,3 +163,4 @@ nums.push_back(4);
 map<string, int> ages = {{"Alice", 30}, {"Bob", 25}};
 ```
 
+### 2. Algorithms
