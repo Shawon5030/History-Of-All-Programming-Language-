@@ -112,3 +112,4 @@ Person.prototype.speak = function() { /* ... */ };
 ### 5. Asynchronous JS (1000+ words)
 ```javascript
 // Callbacks
+fs.readFile('file.txt', (err, data) => {
