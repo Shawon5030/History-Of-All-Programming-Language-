@@ -187,3 +187,4 @@ Math.sqrt(25);
 - Spring Boot
 - Hibernate
 - Jakarta EE
+- Micronaut
