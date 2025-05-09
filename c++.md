@@ -45,3 +45,4 @@ sudo apt install g++
 # macOS
 brew install llvm
 
+# Windows (MSVC via Visual Studio)
