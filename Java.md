@@ -89,3 +89,4 @@ while (age < 100) {
 ## 🧱 Methods
 ```java
 public String greet(String name) {
+    return "Hello " + name;
