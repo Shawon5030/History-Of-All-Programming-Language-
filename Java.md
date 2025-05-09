@@ -204,3 +204,4 @@ Math.sqrt(25);
 
 This Markdown document includes:
 1. Consistent section headers matching your PHP format
+2. Proper Java code blocks with syntax highlighting
