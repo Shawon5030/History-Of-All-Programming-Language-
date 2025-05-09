@@ -178,3 +178,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - PHP in HTML
 
 ## 🧮 Variables and Data Types
+- Declaring Variables
