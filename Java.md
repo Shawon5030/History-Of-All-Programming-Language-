@@ -98,3 +98,4 @@ System.out.println(greet("Alice"));
 ```java
 String[] fruits = {"Apple", "Banana"};
 ArrayList<String> colors = new ArrayList<>();
+colors.add("Red");
