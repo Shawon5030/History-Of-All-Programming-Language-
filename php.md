@@ -128,3 +128,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 - Introduced **Just-In-Time (JIT)** compilation for even better performance.
 - Brought modern language features:
+  - Attributes (Annotations)
