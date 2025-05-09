@@ -63,3 +63,4 @@ g++ program.cpp -o output
 // Primitive Types
 int age = 30;              // 4 bytes
 double price = 9.99;       // 8 bytes
+char grade = 'A';          // 1 byte
