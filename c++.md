@@ -307,3 +307,4 @@ This documentation covers:
 4. **Template metaprogramming** basics
 5. **Concurrency model** (threads, async)
 6. **Performance-critical** patterns
+7. **Industry applications** (gaming, embedded, finance)
