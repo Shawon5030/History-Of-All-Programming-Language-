@@ -260,3 +260,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Routing and Controllers
 - Templating Engines (e.g., Blade, Twig)
 
+## 🧪 Sample Projects and Scripts
