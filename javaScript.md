@@ -163,3 +163,4 @@ import { functionA } from './module.js';
 ```javascript
 try {
   riskyOperation();
+} catch (error) {
