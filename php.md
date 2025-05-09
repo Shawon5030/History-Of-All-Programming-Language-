@@ -143,3 +143,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - **MediaWiki** (used by Wikipedia)
   - **Drupal**
   - **Laravel framework** (modern PHP applications)
+- Supported by a massive global community and tons of open-source tools.
