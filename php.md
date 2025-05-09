@@ -212,3 +212,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Properties and Methods
 - Constructors and Destructors
 - Inheritance and Interfaces
+- Traits and Namespaces
