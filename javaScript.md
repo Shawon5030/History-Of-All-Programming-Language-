@@ -96,3 +96,4 @@ const add = (a, b) => a + b;
 // Object Literal
 const user = {
   name: "Alice",
+  age: 30,
