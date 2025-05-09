@@ -166,3 +166,4 @@ ResultSet rs = stmt.executeQuery("SELECT * FROM users");
 // String manipulation
 "Hello".length();
 "Java".substring(1, 3);
+
