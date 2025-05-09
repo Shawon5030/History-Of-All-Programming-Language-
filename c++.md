@@ -255,3 +255,4 @@ add_executable(app main.cpp)
 ```bash
 clang-tidy --checks=* program.cpp
 ```
+
