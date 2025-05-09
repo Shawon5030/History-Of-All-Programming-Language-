@@ -27,3 +27,4 @@ Originally created by Rasmus Lerdorf in 1994, PHP has evolved into a powerful to
 
 ### 🌍 Why Learn PHP?
 
+PHP powers **over 75%** of websites that use server-side programming. Some of the most popular platforms and content management systems, such as **WordPress, Drupal, Joomla, Magento, and Laravel**, are either written in or heavily rely on PHP.
