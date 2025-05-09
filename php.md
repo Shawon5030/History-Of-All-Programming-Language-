@@ -168,3 +168,4 @@ Before writing and running PHP code, you need to set up a development environmen
    - Go to Environment Variables → Edit System Variables → Add `C:\php`
 4. Open Command Prompt and type:
    ```bash
+   php -v
