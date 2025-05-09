@@ -40,3 +40,4 @@ export PATH=$JAVA_HOME/bin:$PATH
 ```
 3. Verify:
 ```bash
+java -version
