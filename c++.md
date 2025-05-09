@@ -224,3 +224,4 @@ asm("mov %eax, 5");  // Platform-specific
 g++ -O3 program.cpp  // Maximum optimization
 ```
 
+### 3. Cache Locality
