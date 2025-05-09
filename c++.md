@@ -132,3 +132,4 @@ cout << rect.area();
 ### 2. Inheritance
 ```cpp
 class Shape {
+public:
