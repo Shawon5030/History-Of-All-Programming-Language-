@@ -194,3 +194,4 @@ cout << max<double>(5.3, 2.8);
 ```cpp
 vector<string> createStrings() {
     vector<string> temp = {"a", "b", "c"};
+    return temp;  // Move constructor invoked
