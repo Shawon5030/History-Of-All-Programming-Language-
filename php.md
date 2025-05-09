@@ -222,3 +222,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - `$_REQUEST` and `$_SERVER`
 
 ## 🧑‍💻 Session and Cookie Management
+- Using `session_start()`, `$_SESSION`
