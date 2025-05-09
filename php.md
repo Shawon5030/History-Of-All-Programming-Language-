@@ -186,3 +186,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - if, else, elseif
 - switch
 - while, do...while
+- for, foreach
