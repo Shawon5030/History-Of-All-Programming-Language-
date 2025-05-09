@@ -238,3 +238,4 @@ class TodoApp {
 - Debouncing events
 - Virtual DOM diffing
 - Web Workers
+- Memory leak prevention
