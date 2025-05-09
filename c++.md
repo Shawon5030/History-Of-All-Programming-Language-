@@ -316,3 +316,4 @@ Each section can be expanded with:
 - Common pitfalls
 - Cross-platform considerations
 - Security best practices
+- Real-world codebases analysis (like LLVM, Unreal Engine)
