@@ -99,3 +99,4 @@ auto greet = [](string name) { return "Hello " + name; };
 ```cpp
 // Stack allocation
 int stack_var = 10;
+
