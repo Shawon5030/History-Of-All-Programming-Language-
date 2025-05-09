@@ -10,3 +10,4 @@ C++ is a high-performance, general-purpose programming language created by Bjarn
 - **Multi-paradigm**: OOP, procedural, generic, functional
 - **System programming** capabilities
 - **Direct memory access** via pointers
+- **STL** (Standard Template Library)
