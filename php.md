@@ -135,3 +135,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Union types
   - Nullsafe operator (`?->`)
 
+### 📈 PHP Usage Today
