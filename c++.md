@@ -267,3 +267,4 @@ void ACharacter::Jump() {
     if (CanJump()) {
         Velocity.Z = JumpZVelocity;
     }
+}
