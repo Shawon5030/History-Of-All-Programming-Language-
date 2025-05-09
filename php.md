@@ -208,3 +208,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - File Uploads
 
 ## 🗃️ Object-Oriented Programming in PHP
+- Classes and Objects
