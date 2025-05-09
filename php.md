@@ -32,3 +32,4 @@ PHP powers **over 75%** of websites that use server-side programming. Some of th
 ### 🧩 Key Features of PHP
 
 - ✅ **Open Source:** Free to download and use.
+- ⚡ **Fast Execution:** Interpreted quickly and optimized for web applications.
