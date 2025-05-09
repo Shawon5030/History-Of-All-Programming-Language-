@@ -271,3 +271,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Official PHP Documentation: [https://www.php.net/manual/en/](https://www.php.net/manual/en/)
 - Tutorials and Blogs
 - Community Forums and Q&A
+
