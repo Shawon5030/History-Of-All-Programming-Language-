@@ -21,3 +21,4 @@ console.log("Hello World!");
 | Year | Milestone |
 |------|-----------|
 | 1995 | Created by Brendan Eich (Netscape) in 10 days |
+| 1997 | ECMAScript 1 standardization |
