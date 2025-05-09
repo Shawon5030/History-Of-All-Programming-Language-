@@ -195,3 +195,4 @@ Math.sqrt(25);
 3. REST API service
 4. Inventory management
 
+## 🧾 Resources
