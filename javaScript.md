@@ -211,3 +211,4 @@ form.addEventListener('submit', (e) => {
 });
 ```
 
+### 2. API Fetch
