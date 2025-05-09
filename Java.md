@@ -171,3 +171,4 @@ ResultSet rs = stmt.executeQuery("SELECT * FROM users");
 LocalDate.now();
 LocalTime.now();
 
+// Math operations
