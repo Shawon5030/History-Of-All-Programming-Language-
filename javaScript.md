@@ -159,3 +159,4 @@ const newArr = [...oldArr, newItem];
 import { functionA } from './module.js';
 ```
 
+### 3. Error Handling (500+ words)
