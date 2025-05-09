@@ -193,3 +193,4 @@ Math.sqrt(25);
 1. Calculator application
 2. Student management system
 3. REST API service
+4. Inventory management
