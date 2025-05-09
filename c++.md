@@ -225,3 +225,4 @@ g++ -O3 program.cpp  // Maximum optimization
 ```
 
 ### 3. Cache Locality
+```cpp
