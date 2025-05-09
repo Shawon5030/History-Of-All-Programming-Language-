@@ -156,3 +156,4 @@ const { name, age } = user;
 const newArr = [...oldArr, newItem];
 
 // Modules
+import { functionA } from './module.js';
