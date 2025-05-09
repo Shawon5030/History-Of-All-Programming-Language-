@@ -218,3 +218,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 🌐 Working with Forms and $_GET/$_POST
 - HTML Forms
 - Handling Form Data with `$_GET` and `$_POST`
+- Form Validation and Sanitization
