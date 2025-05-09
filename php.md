@@ -163,3 +163,4 @@ Before writing and running PHP code, you need to set up a development environmen
 #### 🔹 Windows
 
 1. Download the latest PHP zip from: https://www.php.net/downloads
+2. Extract it to `C:\php`
