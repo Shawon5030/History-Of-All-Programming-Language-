@@ -131,3 +131,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - Attributes (Annotations)
   - Match expressions (like `switch`, but better)
   - Named arguments
+  - Constructor property promotion
