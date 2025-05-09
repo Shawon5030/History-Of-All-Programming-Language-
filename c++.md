@@ -158,3 +158,4 @@ cout << shape->area();  // Dynamic dispatch
 ### 1. Containers
 ```cpp
 vector<int> nums = {1, 2, 3};
+nums.push_back(4);
