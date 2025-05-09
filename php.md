@@ -233,3 +233,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Prepared Statements
 - Database Security and SQL Injection Prevention
 
+## 🧰 Useful Built-in Functions
