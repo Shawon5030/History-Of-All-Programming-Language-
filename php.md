@@ -242,3 +242,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## ⚠️ Error Handling
 - Types of Errors
+- `try`, `catch`, `finally`
