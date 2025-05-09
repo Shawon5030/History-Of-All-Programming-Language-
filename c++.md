@@ -125,3 +125,4 @@ public:
     int area() const { return width * height; }
 };
 
+Rectangle rect(10, 20);
