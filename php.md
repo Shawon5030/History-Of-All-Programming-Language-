@@ -246,3 +246,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Custom Error Handling with `set_error_handler()`
 - Logging Errors
 
+## 🚦 Best Practices
