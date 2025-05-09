@@ -95,3 +95,4 @@ System.out.println(greet("Alice"));
 ```
 
 ## 📦 Arrays & Collections
+```java
