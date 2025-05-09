@@ -237,3 +237,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - String Functions (`strlen()`, `strpos()`, `substr()`, etc.)
 - Date and Time Functions
 - Math Functions
+- File System Functions
