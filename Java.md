@@ -107,3 +107,4 @@ colors.add("Blue");
 import java.io.File;
 import java.io.FileWriter;
 
+File file = new File("test.txt");
