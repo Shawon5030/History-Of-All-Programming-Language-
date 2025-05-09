@@ -80,3 +80,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - It began as a set of **Common Gateway Interface (CGI)** scripts written in C that he used to track visits to his online résumé.
 - He called it **"Personal Home Page Tools"** or **PHP Tools**.
 
+### 🔹 1995 – PHP/FI (Form Interpreter)
