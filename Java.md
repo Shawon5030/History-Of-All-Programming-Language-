@@ -191,3 +191,4 @@ Math.sqrt(25);
 
 ## 🧪 Sample Projects
 1. Calculator application
+2. Student management system
