@@ -164,3 +164,4 @@ import { functionA } from './module.js';
 try {
   riskyOperation();
 } catch (error) {
+  console.error(error.stack);
