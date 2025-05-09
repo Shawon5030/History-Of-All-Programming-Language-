@@ -296,3 +296,4 @@ alignas(64) struct Packet {
 ## 📚 Learning Resources
 - [cppreference.com](https://en.cppreference.com)
 - [ISO C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/)
+- [Effective C++ by Scott Meyers](https://www.aristeia.com/books.html)
