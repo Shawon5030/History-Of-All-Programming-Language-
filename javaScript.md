@@ -67,3 +67,4 @@ typeof undefined;         // 'undefined'
 10 % 3; // 1 (modulus)
 
 // Comparison
+"5" == 5;  // true (loose equality)
