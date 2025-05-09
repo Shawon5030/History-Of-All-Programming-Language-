@@ -121,3 +121,4 @@ fs.readFile('file.txt', (err, data) => {
 fetch('https://api.example.com')
   .then(response => response.json())
   .then(data => console.log(data));
+
