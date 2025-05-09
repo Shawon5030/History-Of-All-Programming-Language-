@@ -299,3 +299,4 @@ alignas(64) struct Packet {
 - [Effective C++ by Scott Meyers](https://www.aristeia.com/books.html)
 - [Godbolt Compiler Explorer](https://godbolt.org/)
 ``` 
+
