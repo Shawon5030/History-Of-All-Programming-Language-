@@ -184,3 +184,4 @@ for (auto it = nums.begin(); it != nums.end(); ++it) {
 ```cpp
 template <typename T>
 T max(T a, T b) {
+    return (a > b) ? a : b;
