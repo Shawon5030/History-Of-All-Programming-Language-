@@ -247,3 +247,4 @@ class TodoApp {
 - Input sanitization
 
 ---
+
