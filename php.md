@@ -253,3 +253,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Using Configuration Files
 - Error and Exception Handling
 
+## 📚 PHP Frameworks (Laravel, Symfony, etc.)
