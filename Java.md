@@ -47,3 +47,4 @@ java -version
 ### Syntax:
 ```java
 // Single-line comment
+/* Multi-line comment */
