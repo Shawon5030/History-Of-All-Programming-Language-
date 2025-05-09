@@ -203,3 +203,4 @@ vector<string> createStrings() {
 #include <thread>
 
 void task() {
+    cout << "Running in thread";
