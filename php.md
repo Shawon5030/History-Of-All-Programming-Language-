@@ -221,3 +221,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Form Validation and Sanitization
 - `$_REQUEST` and `$_SERVER`
 
+## 🧑‍💻 Session and Cookie Management
