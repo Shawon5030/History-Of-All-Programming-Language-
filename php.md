@@ -13,3 +13,4 @@
 ## 🌐 Working with Forms and $_GET/$_POST
 ## 🧑‍💻 Session and Cookie Management
 ## 🗄️ PHP and MySQL Integration
+## 🧰 Useful Built-in Functions
