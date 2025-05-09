@@ -182,3 +182,4 @@ for (auto it = nums.begin(); it != nums.end(); ++it) {
 
 ### 1. Templates
 ```cpp
+template <typename T>
