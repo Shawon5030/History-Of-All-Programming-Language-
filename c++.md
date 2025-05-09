@@ -166,3 +166,4 @@ map<string, int> ages = {{"Alice", 30}, {"Bob", 25}};
 ### 2. Algorithms
 ```cpp
 sort(nums.begin(), nums.end());
+auto it = find(nums.begin(), nums.end(), 2);
