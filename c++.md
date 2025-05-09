@@ -312,3 +312,4 @@ This documentation covers:
 
 Each section can be expanded with:
 - Detailed use cases
+- Performance benchmarks
