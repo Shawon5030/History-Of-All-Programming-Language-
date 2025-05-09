@@ -59,3 +59,4 @@ typeof 42;                // 'number'
 typeof true;              // 'boolean'
 typeof { key: "value" };  // 'object'
 typeof undefined;         // 'undefined'
+```
