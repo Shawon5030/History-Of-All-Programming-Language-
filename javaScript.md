@@ -119,3 +119,4 @@ fs.readFile('file.txt', (err, data) => {
 
 // Promises
 fetch('https://api.example.com')
+  .then(response => response.json())
