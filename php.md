@@ -117,3 +117,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 - Skipped PHP 6 due to internal challenges and confusion.
 - **PHP 7** brought huge performance boosts (up to 2x faster) using **Zend Engine 3.0**.
+- Introduced features like:
