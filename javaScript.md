@@ -226,3 +226,4 @@ class TodoApp {
   constructor() {
     this.todos = [];
   }
+  addTodo(text) {
