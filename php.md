@@ -46,3 +46,4 @@ PHP is capable of performing a wide variety of tasks, including:
 - Generating dynamic page content
 - Collecting form data
 - Sending and receiving cookies
+- Performing server-side file manipulation (create, open, read, write)
