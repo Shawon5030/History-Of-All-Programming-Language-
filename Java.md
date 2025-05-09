@@ -118,3 +118,4 @@ writer.close();
 class Car {
     String model;
     
+    public Car(String model) {
