@@ -167,3 +167,4 @@ ResultSet rs = stmt.executeQuery("SELECT * FROM users");
 "Hello".length();
 "Java".substring(1, 3);
 
+// Date/time
