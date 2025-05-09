@@ -264,3 +264,4 @@ clang-tidy --checks=* program.cpp
 ```cpp
 // Unreal Engine snippet
 void ACharacter::Jump() {
+    if (CanJump()) {
