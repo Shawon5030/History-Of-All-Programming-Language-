@@ -52,3 +52,4 @@ brew install llvm
 ```bash
 g++ program.cpp -o output
 ./output
+```
