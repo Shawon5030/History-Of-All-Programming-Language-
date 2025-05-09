@@ -204,3 +204,4 @@ http.createServer((req, res) => {
 ### 1. Form Validation
 ```javascript
 form.addEventListener('submit', (e) => {
+  if (!input.value.includes('@')) {
