@@ -60,3 +60,4 @@ typeof true;              // 'boolean'
 typeof { key: "value" };  // 'object'
 typeof undefined;         // 'undefined'
 ```
+
