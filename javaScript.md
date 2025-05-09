@@ -237,3 +237,4 @@ class TodoApp {
 ## 🚀 Performance Optimization (1000+ words)
 - Debouncing events
 - Virtual DOM diffing
+- Web Workers
