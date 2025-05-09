@@ -56,3 +56,4 @@ const immutableVar = "constant";
 // Data Types
 typeof "String";          // 'string'
 typeof 42;                // 'number'
+typeof true;              // 'boolean'
