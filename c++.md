@@ -4,3 +4,4 @@ Here's a comprehensive **C++ documentation** in Markdown format following the sa
 # C++ Language Documentation
 
 ## 📜 Introduction
+C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1985 as an extension of C.
