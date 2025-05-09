@@ -40,3 +40,4 @@ int main() {
 ### Compiler Installation
 ```bash
 # Linux
+sudo apt install g++
