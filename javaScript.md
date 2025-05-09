@@ -54,3 +54,4 @@ let mutableVar = "can change";
 const immutableVar = "constant";
 
 // Data Types
+typeof "String";          // 'string'
