@@ -79,3 +79,4 @@ null ?? "default"; // Nullish coalescing
 ```javascript
 // Function Declaration
 function greet(name) {
+  return `Hello ${name}`;
