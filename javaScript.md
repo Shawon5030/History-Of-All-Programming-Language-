@@ -218,3 +218,4 @@ async function fetchUsers() {
   const data = await response.json();
   renderUserList(data);
 }
+```
