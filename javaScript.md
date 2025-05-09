@@ -86,3 +86,4 @@ function greet(name) {
 const add = (a, b) => a + b;
 
 // IIFE
+(function() {
