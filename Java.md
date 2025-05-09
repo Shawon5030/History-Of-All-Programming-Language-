@@ -36,3 +36,4 @@ public class HelloWorld {
 2. Set environment variables:
 ```bash
 export JAVA_HOME=/path/to/jdk
+export PATH=$JAVA_HOME/bin:$PATH
