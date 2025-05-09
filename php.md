@@ -240,3 +240,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - File System Functions
 - Error Handling Functions
 
+## ⚠️ Error Handling
