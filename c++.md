@@ -78,3 +78,4 @@ if (auto result = calculate(); result > 0) {
     cout << "Positive";
 }
 
+// Range-based for loop
