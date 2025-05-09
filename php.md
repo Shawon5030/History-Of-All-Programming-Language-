@@ -247,3 +247,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Logging Errors
 
 ## 🚦 Best Practices
+- Code Readability and Formatting
