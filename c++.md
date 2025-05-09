@@ -124,3 +124,4 @@ public:
     // Method
     int area() const { return width * height; }
 };
+
