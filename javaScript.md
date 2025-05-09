@@ -80,3 +80,4 @@ null ?? "default"; // Nullish coalescing
 // Function Declaration
 function greet(name) {
   return `Hello ${name}`;
+}
