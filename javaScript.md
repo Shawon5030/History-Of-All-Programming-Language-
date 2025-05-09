@@ -6,3 +6,4 @@ Here's a comprehensive **JavaScript documentation** in Markdown format, followin
 ## 📜 Introduction
 JavaScript is a lightweight, interpreted scripting language primarily used for web development. 
 
+### 🌍 Why Learn JavaScript?
