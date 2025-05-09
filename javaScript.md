@@ -251,3 +251,4 @@ class TodoApp {
 ## 📚 Resources
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [You Don't Know JS (Book Series)](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript.info](https://javascript.info)
