@@ -135,3 +135,4 @@ async function getData() {
 
 ### 1. DOM Manipulation (1500+ words)
 ```javascript
+// Selecting Elements
