@@ -45,3 +45,4 @@ java -version
 
 ## 🧠 Java Basics
 ### Syntax:
+```java
