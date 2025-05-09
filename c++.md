@@ -148,3 +148,4 @@ public:
 ### 3. Polymorphism
 ```cpp
 Shape* shape = new Circle(5.0);
+cout << shape->area();  // Dynamic dispatch
