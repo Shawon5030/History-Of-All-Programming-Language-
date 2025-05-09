@@ -97,3 +97,4 @@ auto greet = [](string name) { return "Hello " + name; };
 
 ### 4. Memory Management
 ```cpp
+// Stack allocation
