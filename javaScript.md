@@ -32,3 +32,4 @@ console.log("Hello World!");
 ### Browser Execution:
 ```html
 <script>
+  alert("Inline JS");
