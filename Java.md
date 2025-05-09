@@ -75,3 +75,4 @@ if (age > 18) {
 ```java
 for (int i = 0; i < 5; i++) {
     System.out.println(i);
+}
