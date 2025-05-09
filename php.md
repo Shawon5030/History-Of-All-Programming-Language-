@@ -158,3 +158,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ---
 
+### 🛠️ Option 1: Installing PHP Manually (Command Line)
