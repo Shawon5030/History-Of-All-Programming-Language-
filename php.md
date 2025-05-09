@@ -225,3 +225,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Using `session_start()`, `$_SESSION`
 - Creating and Retrieving Cookies
 - Destroying Sessions and Cookies
+- Security Best Practices
