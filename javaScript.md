@@ -134,3 +134,4 @@ async function getData() {
 ## 🏗️ Advanced Topics (Expanded)
 
 ### 1. DOM Manipulation (1500+ words)
+```javascript
