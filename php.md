@@ -210,3 +210,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 🗃️ Object-Oriented Programming in PHP
 - Classes and Objects
 - Properties and Methods
+- Constructors and Destructors
