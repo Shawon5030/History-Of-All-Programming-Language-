@@ -184,3 +184,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 🔁 Control Structures
 - if, else, elseif
+- switch
