@@ -171,3 +171,4 @@ auto it = find(nums.begin(), nums.end(), 2);
 
 ### 3. Iterators
 ```cpp
+for (auto it = nums.begin(); it != nums.end(); ++it) {
