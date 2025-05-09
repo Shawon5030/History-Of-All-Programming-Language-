@@ -207,3 +207,4 @@ form.addEventListener('submit', (e) => {
   if (!input.value.includes('@')) {
     e.preventDefault();
     showError('Invalid email');
+  }
