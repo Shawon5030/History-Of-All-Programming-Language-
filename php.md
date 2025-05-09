@@ -234,3 +234,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Database Security and SQL Injection Prevention
 
 ## 🧰 Useful Built-in Functions
+- String Functions (`strlen()`, `strpos()`, `substr()`, etc.)
