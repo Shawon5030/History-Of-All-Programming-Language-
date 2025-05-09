@@ -119,3 +119,4 @@ private:
     int width, height;
 public:
     // Constructor
+    Rectangle(int w, int h) : width(w), height(h) {}
