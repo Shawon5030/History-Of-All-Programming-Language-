@@ -185,3 +185,4 @@ Math.sqrt(25);
 
 ## 📚 Frameworks
 - Spring Boot
+- Hibernate
