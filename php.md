@@ -39,3 +39,4 @@ PHP powers **over 75%** of websites that use server-side programming. Some of th
 - 🧰 **Rich Library Support:** Offers thousands of built-in functions.
 - 🔒 **Security:** Provides tools and practices to build secure web apps.
 
+### 🔍 What Can PHP Do?
