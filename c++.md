@@ -222,3 +222,4 @@ asm("mov %eax, 5");  // Platform-specific
 ### 2. Compiler Optimizations
 ```bash
 g++ -O3 program.cpp  // Maximum optimization
+```
