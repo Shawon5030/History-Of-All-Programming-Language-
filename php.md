@@ -26,3 +26,4 @@ PHP (Hypertext Preprocessor) is a widely-used, open-source, general-purpose scri
 Originally created by Rasmus Lerdorf in 1994, PHP has evolved into a powerful tool for creating dynamic and interactive websites. Unlike frontend technologies such as HTML, CSS, and JavaScript, PHP runs on the server-side. This means that it executes on the server and sends only the output (usually HTML) to the user's web browser.
 
 ### 🌍 Why Learn PHP?
+
