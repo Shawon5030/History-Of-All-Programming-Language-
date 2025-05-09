@@ -36,3 +36,4 @@ PHP powers **over 75%** of websites that use server-side programming. Some of th
 - 💡 **Easy to Learn:** Simple syntax similar to C and Perl.
 - 🔗 **Cross-Platform:** Works on Windows, Linux, macOS, and other systems.
 - 🌐 **Database Integration:** Excellent support for databases like MySQL, PostgreSQL, SQLite, etc.
+- 🧰 **Rich Library Support:** Offers thousands of built-in functions.
