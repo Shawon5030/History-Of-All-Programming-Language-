@@ -49,3 +49,4 @@ node app.js
 
 ### 1. Variables and Data Types
 ```javascript
+// Variable Declarations
