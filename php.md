@@ -17,3 +17,4 @@
 ## ⚠️ Error Handling
 ## 🚦 Best Practices
 ## 📚 PHP Frameworks (Laravel, Symfony, etc.)
+## 🧪 Sample Projects and Scripts
