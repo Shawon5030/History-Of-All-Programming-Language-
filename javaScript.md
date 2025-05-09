@@ -48,3 +48,4 @@ node app.js
 ## 🧠 Core Concepts (Expanded Sections)
 
 ### 1. Variables and Data Types
+```javascript
