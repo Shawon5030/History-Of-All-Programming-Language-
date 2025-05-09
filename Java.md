@@ -60,3 +60,4 @@ boolean isActive = true;   // Boolean
 char grade = 'A';          // Character
 int[] numbers = {1, 2, 3}; // Array
 ```
+
