@@ -209,3 +209,4 @@ This Markdown document includes:
 4. Examples for all major Java concepts
 5. Environment setup instructions
 6. Framework references and resources
+7. Best practices section
