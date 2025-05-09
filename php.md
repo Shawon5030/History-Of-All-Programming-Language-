@@ -241,3 +241,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Error Handling Functions
 
 ## ⚠️ Error Handling
+- Types of Errors
