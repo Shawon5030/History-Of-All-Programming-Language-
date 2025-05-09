@@ -26,3 +26,4 @@ int main() {
 
 ## 🕰️ History of C++
 | Year | Standard | Key Features |
+|------|----------|--------------|
