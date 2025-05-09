@@ -143,3 +143,4 @@ button.addEventListener('click', () => {
   alert('Button clicked!');
 });
 
+// Dynamic Updates
