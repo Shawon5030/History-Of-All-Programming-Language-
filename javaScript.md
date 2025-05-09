@@ -41,3 +41,4 @@ console.log("Hello World!");
 ```bash
 npm init -y
 node app.js
+```
