@@ -144,3 +144,4 @@ try {
 
 ## 🧵 Multithreading
 ```java
+class MyThread extends Thread {
