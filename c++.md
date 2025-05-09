@@ -220,3 +220,4 @@ asm("mov %eax, 5");  // Platform-specific
 ```
 
 ### 2. Compiler Optimizations
+```bash
