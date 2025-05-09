@@ -130,3 +130,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Brought modern language features:
   - Attributes (Annotations)
   - Match expressions (like `switch`, but better)
+  - Named arguments
