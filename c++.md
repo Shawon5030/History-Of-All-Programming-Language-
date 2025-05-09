@@ -19,3 +19,4 @@ C++ is a high-performance, general-purpose programming language created by Bjarn
 using namespace std;
 
 int main() {
+    cout << "Hello World!" << endl;
