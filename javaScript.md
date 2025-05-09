@@ -64,3 +64,4 @@ typeof undefined;         // 'undefined'
 ### 2. Operators (300+ words)
 ```javascript
 // Arithmetic
+10 % 3; // 1 (modulus)
