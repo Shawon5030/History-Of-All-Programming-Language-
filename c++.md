@@ -305,3 +305,4 @@ This documentation covers:
 2. **Memory management** techniques (raw pointers to smart pointers)
 3. **OOP principles** with practical examples
 4. **Template metaprogramming** basics
+5. **Concurrency model** (threads, async)
