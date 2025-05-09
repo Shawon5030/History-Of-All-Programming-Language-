@@ -205,3 +205,4 @@ http.createServer((req, res) => {
 ```javascript
 form.addEventListener('submit', (e) => {
   if (!input.value.includes('@')) {
+    e.preventDefault();
