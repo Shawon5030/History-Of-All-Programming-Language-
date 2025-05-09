@@ -214,3 +214,4 @@ form.addEventListener('submit', (e) => {
 ### 2. API Fetch
 ```javascript
 async function fetchUsers() {
+  const response = await fetch('/api/users');
