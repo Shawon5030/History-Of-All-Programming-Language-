@@ -146,3 +146,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Supported by a massive global community and tons of open-source tools.
 
 ### 🧪 Fun Fact
+
