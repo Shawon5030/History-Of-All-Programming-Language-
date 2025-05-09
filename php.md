@@ -223,3 +223,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 🧑‍💻 Session and Cookie Management
 - Using `session_start()`, `$_SESSION`
+- Creating and Retrieving Cookies
