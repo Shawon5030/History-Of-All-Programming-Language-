@@ -54,3 +54,4 @@ System.out.println("Hello"); // Output
 ## 🧮 Variables and Data Types
 ```java
 String name = "John";      // String
+int age = 30;              // Integer
