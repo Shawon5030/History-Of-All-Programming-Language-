@@ -53,3 +53,4 @@ node app.js
 let mutableVar = "can change";
 const immutableVar = "constant";
 
+// Data Types
