@@ -88,3 +88,4 @@ const add = (a, b) => a + b;
 // IIFE
 (function() {
   console.log("Immediately invoked");
+})();
