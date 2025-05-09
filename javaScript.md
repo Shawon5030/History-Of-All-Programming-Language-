@@ -201,3 +201,4 @@ http.createServer((req, res) => {
 
 ## 🧪 Practical Examples (2000+ words)
 
+### 1. Form Validation
