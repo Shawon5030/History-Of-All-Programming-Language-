@@ -95,3 +95,4 @@ const add = (a, b) => a + b;
 ```javascript
 // Object Literal
 const user = {
+  name: "Alice",
