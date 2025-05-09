@@ -167,3 +167,4 @@ Before writing and running PHP code, you need to set up a development environmen
 3. Add the PHP directory to your **System PATH**:
    - Go to Environment Variables → Edit System Variables → Add `C:\php`
 4. Open Command Prompt and type:
+   ```bash
