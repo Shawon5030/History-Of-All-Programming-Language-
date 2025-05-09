@@ -12,3 +12,4 @@
 ## 🗃️ Object-Oriented Programming in PHP
 ## 🌐 Working with Forms and $_GET/$_POST
 ## 🧑‍💻 Session and Cookie Management
+## 🗄️ PHP and MySQL Integration
