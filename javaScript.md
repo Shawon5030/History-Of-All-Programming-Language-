@@ -208,3 +208,4 @@ form.addEventListener('submit', (e) => {
     e.preventDefault();
     showError('Invalid email');
   }
+});
