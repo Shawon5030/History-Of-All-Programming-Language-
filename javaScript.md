@@ -243,3 +243,4 @@ class TodoApp {
 ## 🔒 Security Best Practices (800+ words)
 - XSS prevention
 - CSP headers
+- JWT authentication
