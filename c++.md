@@ -227,3 +227,4 @@ g++ -O3 program.cpp  // Maximum optimization
 ### 3. Cache Locality
 ```cpp
 // Prefer contiguous memory access
+int sum = 0;
