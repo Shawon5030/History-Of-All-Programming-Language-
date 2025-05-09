@@ -65,3 +65,4 @@ PHP is most commonly embedded directly into HTML files. Here's a very simple PHP
 </head>
 <body>
 
+<h1>Welcome!</h1>
