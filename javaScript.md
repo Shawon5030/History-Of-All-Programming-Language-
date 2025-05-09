@@ -76,3 +76,4 @@ null ?? "default"; // Nullish coalescing
 ```
 
 ### 3. Functions (500+ words)
+```javascript
