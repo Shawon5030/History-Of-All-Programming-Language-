@@ -315,3 +315,4 @@ Each section can be expanded with:
 - Performance benchmarks
 - Common pitfalls
 - Cross-platform considerations
+- Security best practices
