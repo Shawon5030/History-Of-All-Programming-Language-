@@ -82,3 +82,4 @@ function greet(name) {
   return `Hello ${name}`;
 }
 
+// Arrow Function
