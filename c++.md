@@ -308,3 +308,4 @@ This documentation covers:
 5. **Concurrency model** (threads, async)
 6. **Performance-critical** patterns
 7. **Industry applications** (gaming, embedded, finance)
+8. **Toolchain setup** for professional development
