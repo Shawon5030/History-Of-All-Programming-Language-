@@ -273,3 +273,4 @@ void ACharacter::Jump() {
 ### 2. Embedded Systems
 ```cpp
 // Arduino example
+void setup() {
