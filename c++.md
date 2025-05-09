@@ -79,3 +79,4 @@ if (auto result = calculate(); result > 0) {
 }
 
 // Range-based for loop
+for (const auto& num : {1, 2, 3}) {
