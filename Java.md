@@ -38,3 +38,4 @@ public class HelloWorld {
 export JAVA_HOME=/path/to/jdk
 export PATH=$JAVA_HOME/bin:$PATH
 ```
+3. Verify:
