@@ -91,3 +91,4 @@ int power(int base, int exp = 2) {
     return std::pow(base, exp);
 }
 
+// Lambda expression
