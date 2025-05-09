@@ -306,3 +306,4 @@ This documentation covers:
 3. **OOP principles** with practical examples
 4. **Template metaprogramming** basics
 5. **Concurrency model** (threads, async)
+6. **Performance-critical** patterns
