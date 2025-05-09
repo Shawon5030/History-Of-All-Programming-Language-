@@ -55,3 +55,4 @@ System.out.println("Hello"); // Output
 ```java
 String name = "John";      // String
 int age = 30;              // Integer
+double price = 9.99;       // Double
