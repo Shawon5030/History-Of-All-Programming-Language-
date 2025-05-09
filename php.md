@@ -48,3 +48,4 @@ PHP is capable of performing a wide variety of tasks, including:
 - Sending and receiving cookies
 - Performing server-side file manipulation (create, open, read, write)
 - Managing sessions
+- Interacting with databases
