@@ -142,3 +142,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
   - **WordPress** (used by 40%+ of websites)
   - **MediaWiki** (used by Wikipedia)
   - **Drupal**
+  - **Laravel framework** (modern PHP applications)
