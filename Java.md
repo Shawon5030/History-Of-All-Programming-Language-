@@ -156,3 +156,4 @@ new MyThread().start();
 ## 🗄️ Database Connectivity (JDBC)
 ```java
 Connection conn = DriverManager.getConnection(
+    "jdbc:mysql://localhost:3306/mydb", "user", "pass");
