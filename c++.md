@@ -67,3 +67,4 @@ char grade = 'A';          // 1 byte
 bool is_valid = true;      // 1 byte
 
 // Type Modifiers
+unsigned int positive_only = 42;
