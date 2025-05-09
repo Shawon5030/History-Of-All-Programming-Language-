@@ -314,3 +314,4 @@ Each section can be expanded with:
 - Detailed use cases
 - Performance benchmarks
 - Common pitfalls
+- Cross-platform considerations
