@@ -27,3 +27,4 @@ int main() {
 ## 🕰️ History of C++
 | Year | Standard | Key Features |
 |------|----------|--------------|
+| 1985 | C++ 1.0  | First commercial release |
