@@ -196,3 +196,4 @@ Math.sqrt(25);
 4. Inventory management
 
 ## 🧾 Resources
+- [Oracle Java Docs](https://docs.oracle.com/en/java/)
