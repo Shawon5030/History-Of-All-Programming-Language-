@@ -35,3 +35,4 @@ console.log("Hello World!");
   alert("Inline JS");
 </script>
 <script src="app.js"></script>
+```
