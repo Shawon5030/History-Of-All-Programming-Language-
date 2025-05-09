@@ -123,3 +123,4 @@ fetch('https://api.example.com')
   .then(data => console.log(data));
 
 // Async/Await
+async function getData() {
