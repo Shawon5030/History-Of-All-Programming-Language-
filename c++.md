@@ -298,3 +298,4 @@ alignas(64) struct Packet {
 - [ISO C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/)
 - [Effective C++ by Scott Meyers](https://www.aristeia.com/books.html)
 - [Godbolt Compiler Explorer](https://godbolt.org/)
+``` 
