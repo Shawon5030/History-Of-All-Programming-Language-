@@ -240,3 +240,4 @@ class TodoApp {
 - Web Workers
 - Memory leak prevention
 
+## 🔒 Security Best Practices (800+ words)
