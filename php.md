@@ -231,3 +231,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Connecting to MySQL using `mysqli` and PDO
 - Performing CRUD Operations
 - Prepared Statements
+- Database Security and SQL Injection Prevention
