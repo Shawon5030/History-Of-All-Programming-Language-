@@ -227,3 +227,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Destroying Sessions and Cookies
 - Security Best Practices
 
+## 🗄️ PHP and MySQL Integration
