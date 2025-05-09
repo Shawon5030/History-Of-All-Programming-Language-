@@ -248,3 +248,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 🚦 Best Practices
 - Code Readability and Formatting
+- Separation of Logic and Presentation
