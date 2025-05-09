@@ -180,3 +180,4 @@ for (auto it = nums.begin(); it != nums.end(); ++it) {
 
 ## ⚡ Advanced Features
 
+### 1. Templates
