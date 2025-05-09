@@ -258,3 +258,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Introduction to Symfony
 - MVC Architecture
 - Routing and Controllers
+- Templating Engines (e.g., Blade, Twig)
