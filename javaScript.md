@@ -160,3 +160,4 @@ import { functionA } from './module.js';
 ```
 
 ### 3. Error Handling (500+ words)
+```javascript
