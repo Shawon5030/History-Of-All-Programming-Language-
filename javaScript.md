@@ -15,3 +15,4 @@ JavaScript is a lightweight, interpreted scripting language primarily used for w
 ```javascript
 // Hello World Example
 console.log("Hello World!");
+```
