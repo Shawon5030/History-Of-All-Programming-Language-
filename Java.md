@@ -34,3 +34,4 @@ public class HelloWorld {
 ### Windows/Linux/macOS:
 1. Download JDK from [Oracle](https://www.oracle.com/java/technologies/downloads/)
 2. Set environment variables:
+```bash
