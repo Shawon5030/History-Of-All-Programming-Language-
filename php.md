@@ -216,3 +216,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Access Modifiers (public, private, protected)
 
 ## 🌐 Working with Forms and $_GET/$_POST
+- HTML Forms
