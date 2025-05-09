@@ -239,3 +239,4 @@ for (int i = 0; i < N; ++i) {
 
 ### 1. Debugging (GDB)
 ```bash
+g++ -g program.cpp
