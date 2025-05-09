@@ -51,3 +51,4 @@ PHP is capable of performing a wide variety of tasks, including:
 - Interacting with databases
 - Creating full-scale web applications
 - Accessing and processing REST APIs
+- Building CMS and eCommerce platforms
