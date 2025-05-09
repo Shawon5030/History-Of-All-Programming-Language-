@@ -206,3 +206,4 @@ This Markdown document includes:
 1. Consistent section headers matching your PHP format
 2. Proper Java code blocks with syntax highlighting
 3. Tables for version history
+4. Examples for all major Java concepts
