@@ -31,3 +31,4 @@ public class HelloWorld {
 | 2023 | Java 21 | Virtual threads |
 
 ## ⚙️ Setup and Installation
+### Windows/Linux/macOS:
