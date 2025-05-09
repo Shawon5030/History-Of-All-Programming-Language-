@@ -150,3 +150,4 @@ element.innerHTML = '<p>New content</p>';
 ### 2. ES6+ Features (2000+ words)
 ```javascript
 // Destructuring
+const { name, age } = user;
