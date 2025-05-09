@@ -110,3 +110,4 @@ Person.prototype.speak = function() { /* ... */ };
 ```
 
 ### 5. Asynchronous JS (1000+ words)
+```javascript
