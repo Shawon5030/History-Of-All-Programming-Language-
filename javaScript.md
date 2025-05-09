@@ -222,3 +222,4 @@ async function fetchUsers() {
 
 ### 3. To-Do App
 ```javascript
+class TodoApp {
