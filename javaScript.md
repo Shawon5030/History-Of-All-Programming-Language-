@@ -66,3 +66,4 @@ typeof undefined;         // 'undefined'
 // Arithmetic
 10 % 3; // 1 (modulus)
 
+// Comparison
