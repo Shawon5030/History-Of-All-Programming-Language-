@@ -141,3 +141,4 @@ document.querySelector('#main');
 // Event Handling
 button.addEventListener('click', () => {
   alert('Button clicked!');
+});
