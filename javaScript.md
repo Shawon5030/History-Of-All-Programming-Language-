@@ -100,3 +100,4 @@ const user = {
   greet() {
     console.log(`Hi, I'm ${this.name}`);
   }
+};
