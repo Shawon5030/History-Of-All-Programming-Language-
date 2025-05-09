@@ -87,3 +87,4 @@ for (const auto& num : {1, 2, 3}) {
 ### 3. Functions
 ```cpp
 // Function with default argument
+int power(int base, int exp = 2) {
