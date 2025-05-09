@@ -194,3 +194,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Function Parameters and Return Values
 - Variable Scope (local, global, static)
 - Built-in vs User-defined Functions
+
