@@ -67,3 +67,4 @@ PHP is most commonly embedded directly into HTML files. Here's a very simple PHP
 
 <h1>Welcome!</h1>
 <p>The current date and time is: <?php echo date("Y-m-d H:i:s"); ?></p>
+
