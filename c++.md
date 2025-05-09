@@ -274,3 +274,4 @@ void ACharacter::Jump() {
 ```cpp
 // Arduino example
 void setup() {
+    pinMode(LED_BUILTIN, OUTPUT);
