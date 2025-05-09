@@ -108,3 +108,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Introduced **Zend Engine 2.0**.
 - Marked a major shift in the language with full support for **Object-Oriented Programming (OOP)**.
 - Added features like:
+  - `try/catch` exception handling
