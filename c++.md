@@ -49,3 +49,4 @@ brew install llvm
 ```
 
 ### Compilation Process
+```bash
