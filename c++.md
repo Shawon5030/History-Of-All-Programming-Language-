@@ -89,3 +89,4 @@ for (const auto& num : {1, 2, 3}) {
 // Function with default argument
 int power(int base, int exp = 2) {
     return std::pow(base, exp);
+}
