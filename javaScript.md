@@ -151,3 +151,4 @@ element.innerHTML = '<p>New content</p>';
 ```javascript
 // Destructuring
 const { name, age } = user;
+
