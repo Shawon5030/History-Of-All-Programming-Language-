@@ -213,3 +213,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Constructors and Destructors
 - Inheritance and Interfaces
 - Traits and Namespaces
+- Access Modifiers (public, private, protected)
