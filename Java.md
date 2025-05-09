@@ -180,3 +180,4 @@ Math.sqrt(25);
 - Follow naming conventions
 - Use proper encapsulation
 - Handle exceptions properly
+- Write unit tests
