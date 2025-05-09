@@ -245,3 +245,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - `try`, `catch`, `finally`
 - Custom Error Handling with `set_error_handler()`
 - Logging Errors
+
