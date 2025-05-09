@@ -266,3 +266,4 @@ clang-tidy --checks=* program.cpp
 void ACharacter::Jump() {
     if (CanJump()) {
         Velocity.Z = JumpZVelocity;
+    }
