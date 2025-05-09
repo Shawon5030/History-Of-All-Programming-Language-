@@ -166,3 +166,4 @@ try {
 } catch (error) {
   console.error(error.stack);
 } finally {
+  cleanup();
