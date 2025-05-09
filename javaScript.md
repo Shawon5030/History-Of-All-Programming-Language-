@@ -263,3 +263,4 @@ This structure can easily expand to 10,000+ words by:
 5. Incorporating diagrams (in Mermaid syntax)
 6. Adding interview questions/answers
 7. Including performance benchmarks
+8. Detailed security examples
