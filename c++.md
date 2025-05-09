@@ -241,3 +241,4 @@ for (int i = 0; i < N; ++i) {
 ```bash
 g++ -g program.cpp
 gdb ./a.out
+```
