@@ -187,3 +187,4 @@ T max(T a, T b) {
     return (a > b) ? a : b;
 }
 
+cout << max<double>(5.3, 2.8);
