@@ -180,3 +180,4 @@ Before writing and running PHP code, you need to set up a development environmen
 ## 🧮 Variables and Data Types
 - Declaring Variables
 - Data Types: String, Integer, Float, Boolean, Array, Object, NULL
+- Type Juggling and Type Casting
