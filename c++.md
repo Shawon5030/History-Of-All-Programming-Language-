@@ -90,3 +90,4 @@ for (const auto& num : {1, 2, 3}) {
 int power(int base, int exp = 2) {
     return std::pow(base, exp);
 }
+
