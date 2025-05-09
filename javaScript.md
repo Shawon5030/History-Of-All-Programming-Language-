@@ -246,3 +246,4 @@ class TodoApp {
 - JWT authentication
 - Input sanitization
 
+---
