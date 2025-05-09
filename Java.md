@@ -37,3 +37,4 @@ public class HelloWorld {
 ```bash
 export JAVA_HOME=/path/to/jdk
 export PATH=$JAVA_HOME/bin:$PATH
+```
