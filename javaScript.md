@@ -33,3 +33,4 @@ console.log("Hello World!");
 ```html
 <script>
   alert("Inline JS");
+</script>
