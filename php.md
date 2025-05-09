@@ -262,3 +262,4 @@ Before writing and running PHP code, you need to set up a development environmen
 
 ## 🧪 Sample Projects and Scripts
 - Contact Form with Validation
+- Simple Blog with CRUD
