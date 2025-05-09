@@ -209,3 +209,4 @@ form.addEventListener('submit', (e) => {
     showError('Invalid email');
   }
 });
+```
