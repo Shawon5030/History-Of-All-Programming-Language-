@@ -37,3 +37,4 @@ console.log("Hello World!");
 <script src="app.js"></script>
 ```
 
+### Node.js Setup:
