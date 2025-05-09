@@ -9,3 +9,4 @@ JavaScript is a lightweight, interpreted scripting language primarily used for w
 ### 🌍 Why Learn JavaScript?
 - Runs on **98% of websites** (client-side)
 - Full-stack capability (Node.js)
+- Foundation of modern frameworks (React, Angular, Vue)
