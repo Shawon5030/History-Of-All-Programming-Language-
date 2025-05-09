@@ -3,3 +3,4 @@ Here's a comprehensive **JavaScript documentation** in Markdown format, followin
 ```markdown
 # JavaScript Language Documentation
 
+## 📜 Introduction
