@@ -92,3 +92,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - This version brought significant improvements, including:
   - A more powerful parser
   - Support for many databases and protocols
+  - The name was changed to **"PHP: Hypertext Preprocessor"** (a recursive acronym).
