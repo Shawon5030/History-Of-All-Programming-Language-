@@ -105,3 +105,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 ### 🔹 2004 – PHP 5
 
+- Introduced **Zend Engine 2.0**.
