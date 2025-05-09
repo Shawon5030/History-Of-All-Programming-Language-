@@ -24,3 +24,4 @@ public class HelloWorld {
 ## 🕰️ History of Java
 | Year | Version | Significance |
 |------|---------|--------------|
+| 1995 | Java 1.0 | Initial release |
