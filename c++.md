@@ -104,3 +104,4 @@ int stack_var = 10;
 int* heap_var = new int(20);
 delete heap_var;  // Manual deallocation
 
+// Smart pointers (C++11+)
