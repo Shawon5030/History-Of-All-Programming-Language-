@@ -90,3 +90,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 
 - Developers **Zeev Suraski** and **Andi Gutmans** rewrote PHP and launched **PHP 3**.
 - This version brought significant improvements, including:
+  - A more powerful parser
