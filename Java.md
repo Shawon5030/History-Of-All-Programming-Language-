@@ -208,3 +208,4 @@ This Markdown document includes:
 3. Tables for version history
 4. Examples for all major Java concepts
 5. Environment setup instructions
+6. Framework references and resources
