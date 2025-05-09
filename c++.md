@@ -28,3 +28,4 @@ int main() {
 | Year | Standard | Key Features |
 |------|----------|--------------|
 | 1985 | C++ 1.0  | First commercial release |
+| 1998 | C++98    | First ISO standard |
