@@ -24,3 +24,4 @@ console.log("Hello World!");
 | 1997 | ECMAScript 1 standardization |
 | 2009 | ES5 (strict mode, JSON support) |
 | 2015 | ES6/ES2015 (Modern JS) |
+| 2023 | ES14 (Array.findLast, Hashbang) |
