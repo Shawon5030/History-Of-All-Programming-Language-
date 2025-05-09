@@ -87,3 +87,4 @@ while (age < 100) {
 ```
 
 ## 🧱 Methods
+```java
