@@ -143,3 +143,4 @@ try {
 ```
 
 ## 🧵 Multithreading
+```java
