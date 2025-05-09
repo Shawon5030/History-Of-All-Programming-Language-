@@ -127,3 +127,4 @@ class Car {
     }
 }
 
+Car myCar = new Car("Toyota");
