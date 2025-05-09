@@ -65,3 +65,4 @@ int age = 30;              // 4 bytes
 double price = 9.99;       // 8 bytes
 char grade = 'A';          // 1 byte
 bool is_valid = true;      // 1 byte
+
