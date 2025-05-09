@@ -14,3 +14,4 @@ Java is a high-level, object-oriented programming language developed by Sun Micr
 - Rich standard library
 
 ```java
+public class HelloWorld {
