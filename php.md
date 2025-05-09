@@ -34,3 +34,4 @@ PHP powers **over 75%** of websites that use server-side programming. Some of th
 - ✅ **Open Source:** Free to download and use.
 - ⚡ **Fast Execution:** Interpreted quickly and optimized for web applications.
 - 💡 **Easy to Learn:** Simple syntax similar to C and Perl.
+- 🔗 **Cross-Platform:** Works on Windows, Linux, macOS, and other systems.
