@@ -178,3 +178,4 @@ Math.sqrt(25);
 
 ## 🚦 Best Practices
 - Follow naming conventions
+- Use proper encapsulation
