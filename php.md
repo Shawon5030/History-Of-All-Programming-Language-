@@ -220,3 +220,4 @@ Before writing and running PHP code, you need to set up a development environmen
 - Handling Form Data with `$_GET` and `$_POST`
 - Form Validation and Sanitization
 - `$_REQUEST` and `$_SERVER`
+
