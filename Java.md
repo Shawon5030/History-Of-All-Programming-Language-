@@ -25,3 +25,4 @@ public class HelloWorld {
 | Year | Version | Significance |
 |------|---------|--------------|
 | 1995 | Java 1.0 | Initial release |
+| 2004 | Java 5 | Generics, autoboxing |
