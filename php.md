@@ -100,3 +100,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Built on the **Zend Engine 1.0**, developed by Suraski and Gutmans.
 - Improved performance and introduced features like:
   - Output buffering
+  - Session handling
