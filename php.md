@@ -110,3 +110,4 @@ The history of PHP is a fascinating journey of how a simple set of scripts evolv
 - Added features like:
   - `try/catch` exception handling
   - Better support for XML
+  - Integration with web services (SOAP)
